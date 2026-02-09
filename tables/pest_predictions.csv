@@ -1,0 +1,451 @@
+path,true,pred,pred_prob
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_0 - Copy.jpg,aphids,"lacewing, lacewing fly",0.051639437675476074
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_0.jpg,aphids,"lacewing, lacewing fly",0.051639437675476074
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_11 - Copy.jpg,aphids,acorn,0.3189116418361664
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_11.jpg,aphids,acorn,0.3189116418361664
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_13 - Copy.jpg,aphids,"lacewing, lacewing fly",0.07364889234304428
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_13.jpg,aphids,"lacewing, lacewing fly",0.07364889234304428
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_15 - Copy.jpg,aphids,leafhopper,0.13257372379302979
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_15.jpg,aphids,leafhopper,0.13257372379302979
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_16.jpg,aphids,"lacewing, lacewing fly",0.13718651235103607
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_19.jpg,aphids,"ant, emmet, pismire",0.0488353855907917
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_2 - Copy.jpg,aphids,"lacewing, lacewing fly",0.4350567162036896
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_2.jpg,aphids,"lacewing, lacewing fly",0.4350567162036896
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_23.jpg,aphids,"ant, emmet, pismire",0.8488768935203552
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_24.jpg,aphids,"long-horned beetle, longicorn, longicorn beetle",0.09742391109466553
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_25.jpg,aphids,"lacewing, lacewing fly",0.09338973462581635
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_27.jpg,aphids,isopod,0.10179007798433304
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_29.jpg,aphids,"lacewing, lacewing fly",0.4533809721469879
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_30.jpg,aphids,isopod,0.07410454750061035
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_32.jpg,aphids,"lacewing, lacewing fly",0.09236764907836914
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_33.jpg,aphids,isopod,0.0656963661313057
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_35.jpg,aphids,"lacewing, lacewing fly",0.03562473878264427
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_36.jpg,aphids,"ant, emmet, pismire",0.6096963882446289
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_37.jpg,aphids,cricket,0.22736380994319916
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_39.jpg,aphids,"leaf beetle, chrysomelid",0.08060348778963089
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_4 - Copy.jpg,aphids,"ant, emmet, pismire",0.6718342900276184
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_4.jpg,aphids,"ant, emmet, pismire",0.6718342900276184
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_40.jpg,aphids,"lacewing, lacewing fly",0.14772871136665344
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_41.jpg,aphids,"mantis, mantid",0.3905355632305145
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_42.jpg,aphids,"barn spider, Araneus cavaticus",0.48237353563308716
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_44.jpg,aphids,tick,0.23497386276721954
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_45.jpg,aphids,"lacewing, lacewing fly",0.23284615576267242
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_46 - Copy.jpg,aphids,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",0.3125378489494324
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_46.jpg,aphids,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",0.3125378489494324
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_47.jpg,aphids,isopod,0.19790080189704895
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_5 - Copy.jpg,aphids,"ant, emmet, pismire",0.2718052566051483
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_5.jpg,aphids,"ant, emmet, pismire",0.2718052566051483
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_50.jpg,aphids,"lacewing, lacewing fly",0.6154859066009521
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_51.jpg,aphids,isopod,0.07008805871009827
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_52.jpg,aphids,bell pepper,0.13938942551612854
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_54 - Copy.jpg,aphids,"ant, emmet, pismire",0.5113325715065002
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_54.jpg,aphids,"ant, emmet, pismire",0.5113325715065002
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_55 - Copy.jpg,aphids,cricket,0.465194970369339
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_55.jpg,aphids,cricket,0.465194970369339
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_56.jpg,aphids,leafhopper,0.3146500885486603
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_6 - Copy.jpg,aphids,"ant, emmet, pismire",0.8676297664642334
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_6.jpg,aphids,"ant, emmet, pismire",0.8676297664642334
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_7 - Copy.jpg,aphids,custard apple,0.2647217810153961
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_7.jpg,aphids,custard apple,0.2647217810153961
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_9 - Copy.jpg,aphids,cricket,0.5538525581359863
+/content/drive/MyDrive/Datasets/pest/test/aphids/jpg_9.jpg,aphids,cricket,0.5538525581359863
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_0.jpg,armyworm,"nematode, nematode worm, roundworm",0.09381024539470673
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_10 - Copy.jpg,armyworm,"ear, spike, capitulum",0.0749104917049408
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_10.jpg,armyworm,"ear, spike, capitulum",0.0749104917049408
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_12.jpg,armyworm,slug,0.525050163269043
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_13.jpg,armyworm,centipede,0.5855327844619751
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_14 - Copy.jpg,armyworm,"nematode, nematode worm, roundworm",0.055741190910339355
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_14.jpg,armyworm,"nematode, nematode worm, roundworm",0.055741190910339355
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_15.jpg,armyworm,"nematode, nematode worm, roundworm",0.16758301854133606
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_18.jpg,armyworm,"ear, spike, capitulum",0.10234483331441879
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_19.jpg,armyworm,"nematode, nematode worm, roundworm",0.4293529987335205
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_2 - Copy.jpg,armyworm,"nematode, nematode worm, roundworm",0.32701629400253296
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_2.jpg,armyworm,"nematode, nematode worm, roundworm",0.32701629400253296
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_20.jpg,armyworm,"ear, spike, capitulum",0.6091707348823547
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_21.jpg,armyworm,centipede,0.18062901496887207
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_22.jpg,armyworm,"ear, spike, capitulum",0.802180290222168
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_23.jpg,armyworm,"sea cucumber, holothurian",0.23549328744411469
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_26.jpg,armyworm,"nematode, nematode worm, roundworm",0.06684272736310959
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_27.jpg,armyworm,"nematode, nematode worm, roundworm",0.2888700067996979
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_3 - Copy.jpg,armyworm,"nematode, nematode worm, roundworm",0.09359420835971832
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_3.jpg,armyworm,"nematode, nematode worm, roundworm",0.09359420835971832
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_30.jpg,armyworm,centipede,0.12806858122348785
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_32 - Copy.jpg,armyworm,"nematode, nematode worm, roundworm",0.1772918552160263
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_32.jpg,armyworm,"nematode, nematode worm, roundworm",0.1772918552160263
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_34.jpg,armyworm,"nematode, nematode worm, roundworm",0.3725142776966095
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_35.jpg,armyworm,"nematode, nematode worm, roundworm",0.39440637826919556
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_37.jpg,armyworm,"nematode, nematode worm, roundworm",0.048606373369693756
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_39.jpg,armyworm,"nematode, nematode worm, roundworm",0.12715178728103638
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_4 - Copy.jpg,armyworm,"ear, spike, capitulum",0.6295250654220581
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_4.jpg,armyworm,"ear, spike, capitulum",0.6295250654220581
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_40.jpg,armyworm,"ear, spike, capitulum",0.19748707115650177
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_41.jpg,armyworm,"ear, spike, capitulum",0.6828024983406067
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_43.jpg,armyworm,slug,0.09577375650405884
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_44.jpg,armyworm,"nematode, nematode worm, roundworm",0.0650348886847496
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_45.jpg,armyworm,"ear, spike, capitulum",0.3123663663864136
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_46.jpg,armyworm,"nematode, nematode worm, roundworm",0.25587108731269836
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_48.jpg,armyworm,damselfly,0.08561259508132935
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_49.jpg,armyworm,"nematode, nematode worm, roundworm",0.0584002360701561
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_5.jpg,armyworm,"ear, spike, capitulum",0.25440943241119385
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_51.jpg,armyworm,"nematode, nematode worm, roundworm",0.04161679744720459
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_52.jpg,armyworm,"ear, spike, capitulum",0.6304408311843872
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_53.jpg,armyworm,"nematode, nematode worm, roundworm",0.0346340574324131
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_54.jpg,armyworm,"ear, spike, capitulum",0.5817269086837769
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_55.jpg,armyworm,slug,0.7289520502090454
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_56.jpg,armyworm,"nematode, nematode worm, roundworm",0.17281532287597656
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_57.jpg,armyworm,"ear, spike, capitulum",0.1320861279964447
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_6 - Copy.jpg,armyworm,"ear, spike, capitulum",0.22347672283649445
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_6.jpg,armyworm,"ear, spike, capitulum",0.22347672283649445
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_7 - Copy.jpg,armyworm,"ear, spike, capitulum",0.2838558852672577
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_7.jpg,armyworm,"ear, spike, capitulum",0.2838558852672577
+/content/drive/MyDrive/Datasets/pest/test/armyworm/jpg_8.jpg,armyworm,"ear, spike, capitulum",0.8989418745040894
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_0 - Copy.jpg,beetle,rhinoceros beetle,0.9074443578720093
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_0.jpg,beetle,rhinoceros beetle,0.9074443578720093
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_1 - Copy.jpg,beetle,"ground beetle, carabid beetle",0.5356412529945374
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_1.jpg,beetle,"ground beetle, carabid beetle",0.5356412529945374
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_10.jpg,beetle,dung beetle,0.42254072427749634
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_12.jpg,beetle,"ground beetle, carabid beetle",0.5927883386611938
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_13.jpg,beetle,"leaf beetle, chrysomelid",0.3104771077632904
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_15.jpg,beetle,dung beetle,0.4271101951599121
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_16.jpg,beetle,weevil,0.6052643060684204
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_17.jpg,beetle,rhinoceros beetle,0.4364166557788849
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_18.jpg,beetle,"ground beetle, carabid beetle",0.819675624370575
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_19.jpg,beetle,"ground beetle, carabid beetle",0.5899579524993896
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_20 - Copy.jpg,beetle,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",0.7654938697814941
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_20.jpg,beetle,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",0.7654938697814941
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_21.jpg,beetle,"leaf beetle, chrysomelid",0.7296844124794006
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_22.jpg,beetle,dung beetle,0.7981197237968445
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_23.jpg,beetle,"ground beetle, carabid beetle",0.5578558444976807
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_24.jpg,beetle,"leaf beetle, chrysomelid",0.49018508195877075
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_25.jpg,beetle,"ground beetle, carabid beetle",0.52231365442276
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_27.jpg,beetle,rhinoceros beetle,0.7995439171791077
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_29.jpg,beetle,dung beetle,0.6329788565635681
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_3.jpg,beetle,"long-horned beetle, longicorn, longicorn beetle",0.6778238415718079
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_30.jpg,beetle,dung beetle,0.8762009143829346
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_33.jpg,beetle,rhinoceros beetle,0.603259265422821
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_34.jpg,beetle,"long-horned beetle, longicorn, longicorn beetle",0.46853184700012207
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_35.jpg,beetle,rhinoceros beetle,0.8381407260894775
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_36 - Copy.jpg,beetle,rhinoceros beetle,0.6921252608299255
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_36.jpg,beetle,rhinoceros beetle,0.6921252608299255
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_38.jpg,beetle,"leaf beetle, chrysomelid",0.2159481942653656
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_39.jpg,beetle,"ground beetle, carabid beetle",0.8806339502334595
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_4.jpg,beetle,rhinoceros beetle,0.47615212202072144
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_40.jpg,beetle,rhinoceros beetle,0.6049605011940002
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_41.jpg,beetle,dung beetle,0.8535937666893005
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_43.jpg,beetle,"ground beetle, carabid beetle",0.4430067837238312
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_45.jpg,beetle,"ground beetle, carabid beetle",0.6608216762542725
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_46.jpg,beetle,weevil,0.6664465665817261
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_47.jpg,beetle,"leaf beetle, chrysomelid",0.5949074029922485
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_48.jpg,beetle,"ground beetle, carabid beetle",0.4569501280784607
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_5.jpg,beetle,rhinoceros beetle,0.6484166979789734
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_50.jpg,beetle,rhinoceros beetle,0.5476632714271545
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_51.jpg,beetle,rhinoceros beetle,0.6945711374282837
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_52.jpg,beetle,dung beetle,0.7971495389938354
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_53.jpg,beetle,"long-horned beetle, longicorn, longicorn beetle",0.8012100458145142
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_54.jpg,beetle,"ground beetle, carabid beetle",0.8450956344604492
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_55.jpg,beetle,rhinoceros beetle,0.6990326046943665
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_58.jpg,beetle,"ground beetle, carabid beetle",0.4658474326133728
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_59.jpg,beetle,dung beetle,0.5806409120559692
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_6.jpg,beetle,rhinoceros beetle,0.881321907043457
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_8.jpg,beetle,"ground beetle, carabid beetle",0.49829939007759094
+/content/drive/MyDrive/Datasets/pest/test/beetle/jpg_9.jpg,beetle,weevil,0.90670245885849
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_0 - Copy.jpg,bollworm,head cabbage,0.09594923257827759
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_0.jpg,bollworm,head cabbage,0.09594923257827759
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_1.jpg,bollworm,"ear, spike, capitulum",0.1013549342751503
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_10.jpg,bollworm,isopod,0.594398558139801
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_12.jpg,bollworm,isopod,0.249101921916008
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_13.jpg,bollworm,"ringlet, ringlet butterfly",0.03823012858629227
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_15.jpg,bollworm,"nematode, nematode worm, roundworm",0.42802321910858154
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_16.jpg,bollworm,"ringlet, ringlet butterfly",0.48141321539878845
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_17.jpg,bollworm,"nematode, nematode worm, roundworm",0.07637827098369598
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_18.jpg,bollworm,"nematode, nematode worm, roundworm",0.09801097214221954
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_2.jpg,bollworm,"nematode, nematode worm, roundworm",0.0558491051197052
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_20.jpg,bollworm,conch,0.1081867665052414
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_21.jpg,bollworm,"nematode, nematode worm, roundworm",0.20318621397018433
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_22.jpg,bollworm,"ear, spike, capitulum",0.37750980257987976
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_23.jpg,bollworm,"nematode, nematode worm, roundworm",0.32790878415107727
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_24.jpg,bollworm,"ringlet, ringlet butterfly",0.07961922138929367
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_25.jpg,bollworm,"nematode, nematode worm, roundworm",0.032642729580402374
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_26.jpg,bollworm,"nematode, nematode worm, roundworm",0.2099391222000122
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_27.jpg,bollworm,"ear, spike, capitulum",0.22001980245113373
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_28.jpg,bollworm,"nematode, nematode worm, roundworm",0.22090701758861542
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_29.jpg,bollworm,"ear, spike, capitulum",0.08478344976902008
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_30.jpg,bollworm,"nematode, nematode worm, roundworm",0.13464267551898956
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_31.jpg,bollworm,"ringlet, ringlet butterfly",0.2997320592403412
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_33.jpg,bollworm,"ear, spike, capitulum",0.44094082713127136
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_34.jpg,bollworm,hair slide,0.04826198145747185
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_35.jpg,bollworm,"ear, spike, capitulum",0.6407635807991028
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_36.jpg,bollworm,"nematode, nematode worm, roundworm",0.21689148247241974
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_37.jpg,bollworm,"ringlet, ringlet butterfly",0.03518921509385109
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_39.jpg,bollworm,fig,0.08909353613853455
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_4.jpg,bollworm,"ear, spike, capitulum",0.32629531621932983
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_40.jpg,bollworm,isopod,0.5989235043525696
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_42.jpg,bollworm,"nematode, nematode worm, roundworm",0.09265676140785217
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_43.jpg,bollworm,Granny Smith,0.6593223214149475
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_44.jpg,bollworm,centipede,0.23376712203025818
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_46.jpg,bollworm,slug,0.051311101764440536
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_48.jpg,bollworm,"nematode, nematode worm, roundworm",0.06356362998485565
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_49.jpg,bollworm,"nematode, nematode worm, roundworm",0.2446284145116806
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_5.jpg,bollworm,"nematode, nematode worm, roundworm",0.2717057466506958
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_51.jpg,bollworm,"nematode, nematode worm, roundworm",0.0787423849105835
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_52.jpg,bollworm,"nematode, nematode worm, roundworm",0.13677260279655457
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_53.jpg,bollworm,"leaf beetle, chrysomelid",0.09362984448671341
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_54.jpg,bollworm,"ear, spike, capitulum",0.4893393814563751
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_56.jpg,bollworm,isopod,0.5235083103179932
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_57.jpg,bollworm,"nematode, nematode worm, roundworm",0.10970102995634079
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_58.jpg,bollworm,"ringlet, ringlet butterfly",0.03321206569671631
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_59.jpg,bollworm,isopod,0.2407558560371399
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_6.jpg,bollworm,"nematode, nematode worm, roundworm",0.14744870364665985
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_7.jpg,bollworm,"nematode, nematode worm, roundworm",0.35554659366607666
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_8.jpg,bollworm,"nematode, nematode worm, roundworm",0.2614561915397644
+/content/drive/MyDrive/Datasets/pest/test/bollworm/jpg_9.jpg,bollworm,"ear, spike, capitulum",0.10369519889354706
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_1.jpg,grasshopper,"grasshopper, hopper",0.6681294441223145
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_10.jpg,grasshopper,"grasshopper, hopper",0.7318956255912781
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_11.jpg,grasshopper,"grasshopper, hopper",0.5055554509162903
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_12.jpg,grasshopper,"grasshopper, hopper",0.34261801838874817
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_13.jpg,grasshopper,"grasshopper, hopper",0.5644885301589966
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_14.jpg,grasshopper,"grasshopper, hopper",0.5809310078620911
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_15.jpg,grasshopper,"grasshopper, hopper",0.49285268783569336
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_16.jpg,grasshopper,"grasshopper, hopper",0.7410733103752136
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_17.jpg,grasshopper,"grasshopper, hopper",0.8277344703674316
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_18.jpg,grasshopper,"grasshopper, hopper",0.6620341539382935
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_19.jpg,grasshopper,"grasshopper, hopper",0.7407078742980957
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_2.jpg,grasshopper,"grasshopper, hopper",0.6247003078460693
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_20.jpg,grasshopper,"grasshopper, hopper",0.7081334590911865
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_21.jpg,grasshopper,"grasshopper, hopper",0.7164717316627502
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_22.jpg,grasshopper,"grasshopper, hopper",0.743196427822113
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_23.jpg,grasshopper,"grasshopper, hopper",0.7560521960258484
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_24.jpg,grasshopper,"grasshopper, hopper",0.665225088596344
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_25.jpg,grasshopper,cricket,0.5418532490730286
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_26.jpg,grasshopper,"grasshopper, hopper",0.6257303357124329
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_27.jpg,grasshopper,"grasshopper, hopper",0.7564387917518616
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_28.jpg,grasshopper,"grasshopper, hopper",0.7399507164955139
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_29.jpg,grasshopper,"grasshopper, hopper",0.8074873089790344
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_3.jpg,grasshopper,cricket,0.7720839977264404
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_30.jpg,grasshopper,"grasshopper, hopper",0.6695835590362549
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_31.jpg,grasshopper,"grasshopper, hopper",0.8429566621780396
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_33.jpg,grasshopper,"grasshopper, hopper",0.697763979434967
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_35.jpg,grasshopper,"grasshopper, hopper",0.7247141599655151
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_36.jpg,grasshopper,cricket,0.46844351291656494
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_37.jpg,grasshopper,"grasshopper, hopper",0.7507569193840027
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_38.jpg,grasshopper,"grasshopper, hopper",0.680168867111206
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_39.jpg,grasshopper,"grasshopper, hopper",0.4169732630252838
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_4.jpg,grasshopper,"grasshopper, hopper",0.8342393040657043
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_40.jpg,grasshopper,"grasshopper, hopper",0.7812555432319641
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_41.jpg,grasshopper,"grasshopper, hopper",0.5213953852653503
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_42.jpg,grasshopper,cricket,0.3968709111213684
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_43.jpg,grasshopper,"grasshopper, hopper",0.8114352822303772
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_45.jpg,grasshopper,"grasshopper, hopper",0.7696852087974548
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_46.jpg,grasshopper,"grasshopper, hopper",0.47164615988731384
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_47.jpg,grasshopper,"grasshopper, hopper",0.5833176374435425
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_48.jpg,grasshopper,"grasshopper, hopper",0.8156050443649292
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_49.jpg,grasshopper,"grasshopper, hopper",0.6429624557495117
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_50.jpg,grasshopper,"grasshopper, hopper",0.8174256086349487
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_54.jpg,grasshopper,"grasshopper, hopper",0.7443991899490356
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_55.jpg,grasshopper,"grasshopper, hopper",0.6948371529579163
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_56.jpg,grasshopper,"grasshopper, hopper",0.7750580906867981
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_59.jpg,grasshopper,cricket,0.5895999073982239
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_6.jpg,grasshopper,"grasshopper, hopper",0.8091545701026917
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_60.jpg,grasshopper,"grasshopper, hopper",0.5328571200370789
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_8.jpg,grasshopper,"grasshopper, hopper",0.7254374623298645
+/content/drive/MyDrive/Datasets/pest/test/grasshopper/jpg_9.jpg,grasshopper,cricket,0.8024295568466187
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_0 - Copy.jpg,mites,isopod,0.22546972334384918
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_0.jpg,mites,isopod,0.22546972334384918
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_10.jpg,mites,tick,0.9182214140892029
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_13.jpg,mites,tick,0.9097551107406616
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_14.jpg,mites,tick,0.21323609352111816
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_16.jpg,mites,tick,0.8688071966171265
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_17 - Copy.jpg,mites,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",0.2875480353832245
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_17.jpg,mites,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",0.2875480353832245
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_18 - Copy.jpg,mites,"ant, emmet, pismire",0.3149421811103821
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_18.jpg,mites,"ant, emmet, pismire",0.3149421811103821
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_19 - Copy.jpg,mites,tick,0.6426690220832825
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_19.jpg,mites,tick,0.6426690220832825
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_2 - Copy.jpg,mites,tick,0.545048713684082
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_2.jpg,mites,tick,0.545048713684082
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_20 - Copy.jpg,mites,tick,0.42056575417518616
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_20.jpg,mites,tick,0.42056575417518616
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_21 - Copy.jpg,mites,isopod,0.7851431369781494
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_21.jpg,mites,isopod,0.7851431369781494
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_22 - Copy.jpg,mites,tick,0.5782476663589478
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_22.jpg,mites,tick,0.5782476663589478
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_23.jpg,mites,tick,0.9435155391693115
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_26.jpg,mites,isopod,0.20710311830043793
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_28.jpg,mites,tick,0.36788952350616455
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_3 - Copy.jpg,mites,isopod,0.4579783082008362
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_3.jpg,mites,isopod,0.4579783082008362
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_31.jpg,mites,"cockroach, roach",0.10818390548229218
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_32.jpg,mites,tick,0.884025514125824
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_33.jpg,mites,tick,0.5348863005638123
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_35 - Copy.jpg,mites,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",0.37841498851776123
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_35.jpg,mites,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",0.37841498851776123
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_36 - Copy.jpg,mites,"nematode, nematode worm, roundworm",0.7575457096099854
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_36.jpg,mites,"nematode, nematode worm, roundworm",0.7575457096099854
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_4 - Copy.jpg,mites,tick,0.9064586758613586
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_4.jpg,mites,tick,0.9064586758613586
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_42 - Copy.jpg,mites,"crayfish, crawfish, crawdad, crawdaddy",0.19303111732006073
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_45 - Copy.jpg,mites,tick,0.8406165838241577
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_47.jpg,mites,tick,0.7861974239349365
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_5 - Copy.jpg,mites,tick,0.500830888748169
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_5.jpg,mites,tick,0.500830888748169
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_52 - Copy.jpg,mites,tick,0.8860617280006409
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_52.jpg,mites,tick,0.8860617280006409
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_53.jpg,mites,tick,0.6543965935707092
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_55.jpg,mites,tick,0.8424090147018433
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_56.jpg,mites,tick,0.261301726102829
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_57.jpg,mites,"barn spider, Araneus cavaticus",0.4727212190628052
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_59.jpg,mites,tick,0.8861512541770935
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_6 - Copy.jpg,mites,leafhopper,0.4493890106678009
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_6.jpg,mites,leafhopper,0.4493890106678009
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_7.jpg,mites,tick,0.48217707872390747
+/content/drive/MyDrive/Datasets/pest/test/mites/jpg_9.jpg,mites,"nematode, nematode worm, roundworm",0.23233835399150848
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_0.jpg,mosquito,"long-horned beetle, longicorn, longicorn beetle",0.015689194202423096
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_1.jpg,mosquito,"barn spider, Araneus cavaticus",0.027263076975941658
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_10.jpg,mosquito,"harvestman, daddy longlegs, Phalangium opilio",0.013629045337438583
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_11.jpg,mosquito,"harvestman, daddy longlegs, Phalangium opilio",0.09919189661741257
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_12.jpg,mosquito,"barn spider, Araneus cavaticus",0.05158967152237892
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_14.jpg,mosquito,tick,0.07294202595949173
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_15.jpg,mosquito,tick,0.014952605590224266
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_16.jpg,mosquito,"barn spider, Araneus cavaticus",0.02322564087808132
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_18.jpg,mosquito,"ant, emmet, pismire",0.030639952048659325
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_19.jpg,mosquito,fly,0.022435445338487625
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_20.jpg,mosquito,tick,0.32779213786125183
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_22.jpg,mosquito,"harvestman, daddy longlegs, Phalangium opilio",0.01606353186070919
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_23.jpg,mosquito,tiger beetle,0.026027357205748558
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_24.jpg,mosquito,damselfly,0.5564252734184265
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_25.jpg,mosquito,"barn spider, Araneus cavaticus",0.05185583606362343
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_26.jpg,mosquito,window screen,0.3133530914783478
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_27.jpg,mosquito,tick,0.02021843194961548
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_28.jpg,mosquito,"harvestman, daddy longlegs, Phalangium opilio",0.3428323566913605
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_29.jpg,mosquito,"barn spider, Araneus cavaticus",0.02876783348619938
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_3.jpg,mosquito,tick,0.02937856875360012
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_30.jpg,mosquito,tick,0.0681883916258812
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_31.jpg,mosquito,"harvestman, daddy longlegs, Phalangium opilio",0.029312817379832268
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_32.jpg,mosquito,"barn spider, Araneus cavaticus",0.08010586351156235
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_34.jpg,mosquito,"barn spider, Araneus cavaticus",0.02096199244260788
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_38.jpg,mosquito,tick,0.05233141779899597
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_39.jpg,mosquito,"barn spider, Araneus cavaticus",0.016859659925103188
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_4.jpg,mosquito,fly,0.08632386475801468
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_40.jpg,mosquito,"long-horned beetle, longicorn, longicorn beetle",0.01812708005309105
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_41.jpg,mosquito,tiger beetle,0.038295164704322815
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_42.jpg,mosquito,"ant, emmet, pismire",0.5717821717262268
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_43.jpg,mosquito,fly,0.1451883167028427
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_44.jpg,mosquito,"harvestman, daddy longlegs, Phalangium opilio",0.27978962659835815
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_45.jpg,mosquito,fly,0.0348781943321228
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_46.jpg,mosquito,"harvestman, daddy longlegs, Phalangium opilio",0.11060452461242676
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_47.jpg,mosquito,tick,0.022816993296146393
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_48.jpg,mosquito,tick,0.04806482046842575
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_5.jpg,mosquito,hummingbird,0.13597247004508972
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_50.jpg,mosquito,"barn spider, Araneus cavaticus",0.11082243174314499
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_51.jpg,mosquito,"ant, emmet, pismire",0.04777640104293823
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_52.jpg,mosquito,"long-horned beetle, longicorn, longicorn beetle",0.40719786286354065
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_53.jpg,mosquito,damselfly,0.36162349581718445
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_54.jpg,mosquito,"ground beetle, carabid beetle",0.11765499413013458
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_55.jpg,mosquito,tick,0.06909205764532089
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_56.jpg,mosquito,"barn spider, Araneus cavaticus",0.4264174997806549
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_58.jpg,mosquito,"long-horned beetle, longicorn, longicorn beetle",0.1282559633255005
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_59.jpg,mosquito,"harvestman, daddy longlegs, Phalangium opilio",0.04395557940006256
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_6.jpg,mosquito,"long-horned beetle, longicorn, longicorn beetle",0.13296294212341309
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_7.jpg,mosquito,tick,0.02086706832051277
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_8.jpg,mosquito,"harvestman, daddy longlegs, Phalangium opilio",0.02200191654264927
+/content/drive/MyDrive/Datasets/pest/test/mosquito/jpg_9.jpg,mosquito,"long-horned beetle, longicorn, longicorn beetle",0.30748260021209717
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_0.jpg,sawfly,"ant, emmet, pismire",0.3330925405025482
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_1.jpg,sawfly,"long-horned beetle, longicorn, longicorn beetle",0.1513632833957672
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_10.jpg,sawfly,"ant, emmet, pismire",0.40311598777770996
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_11.jpg,sawfly,"nematode, nematode worm, roundworm",0.1939813643693924
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_12.jpg,sawfly,bee,0.37149113416671753
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_14.jpg,sawfly,fly,0.42958372831344604
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_15.jpg,sawfly,"nematode, nematode worm, roundworm",0.33680641651153564
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_16.jpg,sawfly,"nematode, nematode worm, roundworm",0.22610603272914886
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_17.jpg,sawfly,"nematode, nematode worm, roundworm",0.24459946155548096
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_18.jpg,sawfly,bee,0.2713207006454468
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_19.jpg,sawfly,slug,0.3243769109249115
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_2.jpg,sawfly,bee,0.5983971953392029
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_21.jpg,sawfly,"nematode, nematode worm, roundworm",0.32564136385917664
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_22.jpg,sawfly,"sea cucumber, holothurian",0.6670846343040466
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_23.jpg,sawfly,"cockroach, roach",0.663737416267395
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_24.jpg,sawfly,bee,0.35999128222465515
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_26.jpg,sawfly,leafhopper,0.1405022144317627
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_27.jpg,sawfly,"lacewing, lacewing fly",0.19000858068466187
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_29.jpg,sawfly,bee,0.35452762246131897
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_3.jpg,sawfly,leafhopper,0.23639848828315735
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_31.jpg,sawfly,"long-horned beetle, longicorn, longicorn beetle",0.11069578677415848
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_32.jpg,sawfly,"long-horned beetle, longicorn, longicorn beetle",0.37870481610298157
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_33.jpg,sawfly,bee,0.21856188774108887
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_35.jpg,sawfly,"ground beetle, carabid beetle",0.11229821294546127
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_38.jpg,sawfly,bee,0.37092435359954834
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_39.jpg,sawfly,"barn spider, Araneus cavaticus",0.165174663066864
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_4.jpg,sawfly,"barn spider, Araneus cavaticus",0.17748922109603882
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_40.jpg,sawfly,"long-horned beetle, longicorn, longicorn beetle",0.3232213854789734
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_41.jpg,sawfly,bee,0.30761924386024475
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_42.jpg,sawfly,bee,0.2556609511375427
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_43.jpg,sawfly,"nematode, nematode worm, roundworm",0.6500737071037292
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_44.jpg,sawfly,"nematode, nematode worm, roundworm",0.2665148377418518
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_46.jpg,sawfly,damselfly,0.42960143089294434
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_47.jpg,sawfly,"long-horned beetle, longicorn, longicorn beetle",0.6269862055778503
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_48.jpg,sawfly,isopod,0.43508997559547424
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_49.jpg,sawfly,"nematode, nematode worm, roundworm",0.5131416916847229
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_5.jpg,sawfly,"cicada, cicala",0.4833577573299408
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_50.jpg,sawfly,centipede,0.3359401226043701
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_51.jpg,sawfly,"leaf beetle, chrysomelid",0.31269803643226624
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_53.jpg,sawfly,"ant, emmet, pismire",0.7548210620880127
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_55.jpg,sawfly,"cockroach, roach",0.20473919808864594
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_56.jpg,sawfly,"nematode, nematode worm, roundworm",0.16474884748458862
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_57.jpg,sawfly,"long-horned beetle, longicorn, longicorn beetle",0.11419206112623215
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_58.jpg,sawfly,"nematode, nematode worm, roundworm",0.21695072948932648
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_59.jpg,sawfly,centipede,0.11661237478256226
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_6 - Copy.jpg,sawfly,bee,0.44011086225509644
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_6.jpg,sawfly,bee,0.44011086225509644
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_7.jpg,sawfly,"African chameleon, Chamaeleo chamaeleon",0.2136567384004593
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_8.jpg,sawfly,"African chameleon, Chamaeleo chamaeleon",0.12439335137605667
+/content/drive/MyDrive/Datasets/pest/test/sawfly/jpg_9.jpg,sawfly,bee,0.24061329662799835
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_0.jpg,stem_borer,"ringlet, ringlet butterfly",0.038682274520397186
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_1.jpg,stem_borer,leafhopper,0.33109769225120544
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_11.jpg,stem_borer,"long-horned beetle, longicorn, longicorn beetle",0.9157032370567322
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_12.jpg,stem_borer,"nematode, nematode worm, roundworm",0.2248203456401825
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_13.jpg,stem_borer,"nematode, nematode worm, roundworm",0.44447749853134155
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_14.jpg,stem_borer,"ear, spike, capitulum",0.37266939878463745
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_15.jpg,stem_borer,"lycaenid, lycaenid butterfly",0.1105913370847702
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_2 - Copy.jpg,stem_borer,"nematode, nematode worm, roundworm",0.22255539894104004
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_2.jpg,stem_borer,"nematode, nematode worm, roundworm",0.22255539894104004
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_20.jpg,stem_borer,"ear, spike, capitulum",0.09938451647758484
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_21.jpg,stem_borer,leafhopper,0.06590945273637772
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_24.jpg,stem_borer,"ear, spike, capitulum",0.49625423550605774
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_26.jpg,stem_borer,leafhopper,0.12328582257032394
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_27.jpg,stem_borer,"grasshopper, hopper",0.7377562522888184
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_28.jpg,stem_borer,"lacewing, lacewing fly",0.040743835270404816
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_29 - Copy.jpg,stem_borer,"ear, spike, capitulum",0.1671539843082428
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_29.jpg,stem_borer,"ear, spike, capitulum",0.1671539843082428
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_3.jpg,stem_borer,"nematode, nematode worm, roundworm",0.2606593668460846
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_31.jpg,stem_borer,"ear, spike, capitulum",0.06447789072990417
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_32 - Copy.jpg,stem_borer,"walking stick, walkingstick, stick insect",0.6219435930252075
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_32.jpg,stem_borer,"walking stick, walkingstick, stick insect",0.6219435930252075
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_33.jpg,stem_borer,leafhopper,0.19406871497631073
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_34.jpg,stem_borer,"long-horned beetle, longicorn, longicorn beetle",0.8563602566719055
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_35.jpg,stem_borer,"ear, spike, capitulum",0.43520939350128174
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_36.jpg,stem_borer,leafhopper,0.3277314603328705
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_37.jpg,stem_borer,"long-horned beetle, longicorn, longicorn beetle",0.6345174312591553
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_4.jpg,stem_borer,cabbage butterfly,0.116963692009449
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_40.jpg,stem_borer,"nematode, nematode worm, roundworm",0.4572105407714844
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_41.jpg,stem_borer,"ringlet, ringlet butterfly",0.05333511158823967
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_42.jpg,stem_borer,"walking stick, walkingstick, stick insect",0.4846116304397583
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_43.jpg,stem_borer,"ear, spike, capitulum",0.35754579305648804
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_44 - Copy.jpg,stem_borer,isopod,0.4219706654548645
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_44.jpg,stem_borer,isopod,0.4219706654548645
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_45.jpg,stem_borer,leafhopper,0.06021333113312721
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_47 - Copy.jpg,stem_borer,"long-horned beetle, longicorn, longicorn beetle",0.9018887281417847
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_47.jpg,stem_borer,"long-horned beetle, longicorn, longicorn beetle",0.9018887281417847
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_49.jpg,stem_borer,isopod,0.6801921725273132
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_5 - Copy.jpg,stem_borer,"long-horned beetle, longicorn, longicorn beetle",0.90793377161026
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_5.jpg,stem_borer,"long-horned beetle, longicorn, longicorn beetle",0.90793377161026
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_50.jpg,stem_borer,"ear, spike, capitulum",0.08612443506717682
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_52.jpg,stem_borer,"ear, spike, capitulum",0.16780631244182587
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_53.jpg,stem_borer,leafhopper,0.2062029093503952
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_54.jpg,stem_borer,"long-horned beetle, longicorn, longicorn beetle",0.9181778430938721
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_56.jpg,stem_borer,"nematode, nematode worm, roundworm",0.22720754146575928
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_58.jpg,stem_borer,"long-horned beetle, longicorn, longicorn beetle",0.8842301964759827
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_59.jpg,stem_borer,"long-horned beetle, longicorn, longicorn beetle",0.8246743679046631
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_6.jpg,stem_borer,"lacewing, lacewing fly",0.07029864192008972
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_8.jpg,stem_borer,"barn spider, Araneus cavaticus",0.1115579754114151
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_9 - Copy.jpg,stem_borer,"ant, emmet, pismire",0.332395076751709
+/content/drive/MyDrive/Datasets/pest/test/stem_borer/jpg_9.jpg,stem_borer,"ant, emmet, pismire",0.332395076751709

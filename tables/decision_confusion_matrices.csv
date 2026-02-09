@@ -1,0 +1,3 @@
+policy,TN,FP,FN,TP
+static,620,90,68,22
+weather_adaptive,623,87,69,21

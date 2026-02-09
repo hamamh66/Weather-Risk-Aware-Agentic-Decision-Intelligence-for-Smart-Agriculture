@@ -1,0 +1,501 @@
+path,true,pred,pred_prob
+/content/drive/MyDrive/Datasets/crop/test/Bok choy plant/871.jpg,Bok choy plant,"pot, flowerpot",0.016144685447216034
+/content/drive/MyDrive/Datasets/crop/test/Radishes and similar roots plant/5139.jpg,Radishes and similar roots plant,green mamba,0.07938175648450851
+/content/drive/MyDrive/Datasets/crop/test/Maracuja(Passionfruit) plant/3931.jpg,Maracuja(Passionfruit) plant,"thunder snake, worm snake, Carphophis amoenus",0.11938530951738358
+/content/drive/MyDrive/Datasets/crop/test/Millet plant/3972.jpg,Millet plant,honeycomb,0.20487350225448608
+/content/drive/MyDrive/Datasets/crop/test/Chili peppers and green peppers plant/1845.jpg,Chili peppers and green peppers plant,bell pepper,0.04076223820447922
+"/content/drive/MyDrive/Datasets/crop/test/Pumpkins, squash and gourds plant/5063.jpg","Pumpkins, squash and gourds plant",spaghetti squash,0.11416598409414291
+/content/drive/MyDrive/Datasets/crop/test/Thyme plant/6227.jpg,Thyme plant,"wood rabbit, cottontail, cottontail rabbit",0.017518695443868637
+/content/drive/MyDrive/Datasets/crop/test/Aji pepper plant/48.jpg,Aji pepper plant,bell pepper,0.23427240550518036
+/content/drive/MyDrive/Datasets/crop/test/Cherry plant/1714.jpg,Cherry plant,hair slide,0.03557731211185455
+/content/drive/MyDrive/Datasets/crop/test/Scallions plant/5538.jpg,Scallions plant,daisy,0.09991908073425293
+/content/drive/MyDrive/Datasets/crop/test/Leeks plant/3477.jpg,Leeks plant,cardoon,0.08672238886356354
+/content/drive/MyDrive/Datasets/crop/test/Leeks plant/3465.jpg,Leeks plant,"web site, website, internet site, site",0.44328829646110535
+/content/drive/MyDrive/Datasets/crop/test/Sugar beet plant/5838.jpg,Sugar beet plant,"wood rabbit, cottontail, cottontail rabbit",0.026196900755167007
+/content/drive/MyDrive/Datasets/crop/test/Black pepper plant/699.jpg,Black pepper plant,"hot pot, hotpot",0.13933657109737396
+/content/drive/MyDrive/Datasets/crop/test/Hazelnuts plant/3156.jpg,Hazelnuts plant,"hip, rose hip, rosehip",0.054778892546892166
+/content/drive/MyDrive/Datasets/crop/test/Lima bean plant/3655.jpg,Lima bean plant,digital clock,0.026326080784201622
+/content/drive/MyDrive/Datasets/crop/test/Hazelnuts plant/3139.jpg,Hazelnuts plant,"feather boa, boa",0.02692432515323162
+/content/drive/MyDrive/Datasets/crop/test/Rapeseed (Canola) plant/5187.jpg,Rapeseed (Canola) plant,whistle,0.035377975553274155
+/content/drive/MyDrive/Datasets/crop/test/Brussels sprout plant/1123.jpg,Brussels sprout plant,"artichoke, globe artichoke",0.06961638480424881
+/content/drive/MyDrive/Datasets/crop/test/Lemons and limes plant/3535.jpg,Lemons and limes plant,"pot, flowerpot",0.043522194027900696
+/content/drive/MyDrive/Datasets/crop/test/Walnuts plant/6496.jpg,Walnuts plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.24734562635421753
+/content/drive/MyDrive/Datasets/crop/test/Broccoli plant/988.jpg,Broccoli plant,broccoli,0.475868821144104
+/content/drive/MyDrive/Datasets/crop/test/Rubber (natural) plant/5354.jpg,Rubber (natural) plant,Windsor tie,0.024651657789945602
+/content/drive/MyDrive/Datasets/crop/test/Navy bean plant/4178.jpg,Navy bean plant,"book jacket, dust cover, dust jacket, dust wrapper",0.032998960465192795
+/content/drive/MyDrive/Datasets/crop/test/Brazil nuts plant/923.jpg,Brazil nuts plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.025000467896461487
+/content/drive/MyDrive/Datasets/crop/test/Carrots and turnips plant/1310.jpg,Carrots and turnips plant,"axolotl, mud puppy, Ambystoma mexicanum",0.08990176022052765
+/content/drive/MyDrive/Datasets/crop/test/Pistachios plant/4865.jpg,Pistachios plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.031957607716321945
+/content/drive/MyDrive/Datasets/crop/test/Peas (Green) plant/4675.jpg,Peas (Green) plant,"pot, flowerpot",0.07183776050806046
+/content/drive/MyDrive/Datasets/crop/test/Papayas plant/4518.jpg,Papayas plant,cardoon,0.012472855858504772
+/content/drive/MyDrive/Datasets/crop/test/Hazelnuts plant/3152.jpg,Hazelnuts plant,"ant, emmet, pismire",0.040586892515420914
+/content/drive/MyDrive/Datasets/crop/test/Watermelons plant/6516.jpg,Watermelons plant,whistle,0.07995135337114334
+/content/drive/MyDrive/Datasets/crop/test/Sage plant/5516.jpg,Sage plant,"pot, flowerpot",0.3149392902851105
+/content/drive/MyDrive/Datasets/crop/test/Leeks plant/3480.jpg,Leeks plant,"nematode, nematode worm, roundworm",0.04420013353228569
+/content/drive/MyDrive/Datasets/crop/test/Pineapples plant/4791.jpg,Pineapples plant,"pineapple, ananas",0.5218791365623474
+/content/drive/MyDrive/Datasets/crop/test/Cocoa beans plant/2052.jpg,Cocoa beans plant,"African chameleon, Chamaeleo chamaeleon",0.05526092275977135
+/content/drive/MyDrive/Datasets/crop/test/Grapes plant/2941.jpg,Grapes plant,custard apple,0.031965844333171844
+/content/drive/MyDrive/Datasets/crop/test/Flax fiber and tow plant/2707.jpg,Flax fiber and tow plant,Windsor tie,0.02200976014137268
+/content/drive/MyDrive/Datasets/crop/test/Coffee (green) plant/2145.jpg,Coffee (green) plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.03939817100763321
+/content/drive/MyDrive/Datasets/crop/test/Jute plant/3342.jpg,Jute plant,vine snake,0.07800494134426117
+/content/drive/MyDrive/Datasets/crop/test/Habanero pepper plant/3078.jpg,Habanero pepper plant,coral fungus,0.02358025498688221
+/content/drive/MyDrive/Datasets/crop/test/Pistachios plant/4868.jpg,Pistachios plant,"rock beauty, Holocanthus tricolor",0.014029589481651783
+/content/drive/MyDrive/Datasets/crop/test/Blueberries plant/806.jpg,Blueberries plant,acorn,0.054976947605609894
+/content/drive/MyDrive/Datasets/crop/test/Radishes and similar roots plant/5123.jpg,Radishes and similar roots plant,Granny Smith,0.024652548134326935
+/content/drive/MyDrive/Datasets/crop/test/Ginger plant/2837.jpg,Ginger plant,bell pepper,0.03747189790010452
+/content/drive/MyDrive/Datasets/crop/test/Mint plant/4007.jpg,Mint plant,"pot, flowerpot",0.11068758368492126
+"/content/drive/MyDrive/Datasets/crop/test/Pumpkins, squash and gourds plant/5018.jpg","Pumpkins, squash and gourds plant",isopod,0.06855596601963043
+/content/drive/MyDrive/Datasets/crop/test/Flaxseed (Linseed) plant/2715.jpg,Flaxseed (Linseed) plant,"pot, flowerpot",0.07737085968255997
+/content/drive/MyDrive/Datasets/crop/test/Broccoli plant/1014.jpg,Broccoli plant,broccoli,0.030653541907668114
+/content/drive/MyDrive/Datasets/crop/test/Grapes plant/2946.jpg,Grapes plant,cauliflower,0.08699873834848404
+/content/drive/MyDrive/Datasets/crop/test/Mustard greens plant/4107.jpg,Mustard greens plant,plastic bag,0.05924185737967491
+/content/drive/MyDrive/Datasets/crop/test/Chickpeas plant/1812.jpg,Chickpeas plant,broccoli,0.01740713231265545
+/content/drive/MyDrive/Datasets/crop/test/Cloves plant/1977.jpg,Cloves plant,pinwheel,0.08613593876361847
+/content/drive/MyDrive/Datasets/crop/test/Lupins plant/3715.jpg,Lupins plant,mitten,0.033158741891384125
+/content/drive/MyDrive/Datasets/crop/test/Brazil nuts plant/955.jpg,Brazil nuts plant,maraca,0.029420096427202225
+/content/drive/MyDrive/Datasets/crop/test/Ginger plant/2865.jpg,Ginger plant,"ear, spike, capitulum",0.1386316865682602
+/content/drive/MyDrive/Datasets/crop/test/Papayas plant/4552.jpg,Papayas plant,hair slide,0.06565733253955841
+/content/drive/MyDrive/Datasets/crop/test/Peas (Green) plant/4686.jpg,Peas (Green) plant,"hot pot, hotpot",0.0546259880065918
+/content/drive/MyDrive/Datasets/crop/test/Habanero pepper plant/3086.jpg,Habanero pepper plant,"rock python, rock snake, Python sebae",0.06980844587087631
+/content/drive/MyDrive/Datasets/crop/test/Sunflower seeds plant/5910.jpg,Sunflower seeds plant,"web site, website, internet site, site",0.037785086780786514
+/content/drive/MyDrive/Datasets/crop/test/Oil palm fruit plant/4258.jpg,Oil palm fruit plant,hair slide,0.08150234818458557
+/content/drive/MyDrive/Datasets/crop/test/Hen eggs (shell weight) plant/3211.jpg,Hen eggs (shell weight) plant,wall clock,0.09521931409835815
+/content/drive/MyDrive/Datasets/crop/test/Cocoa beans plant/2068.jpg,Cocoa beans plant,isopod,0.03976624086499214
+/content/drive/MyDrive/Datasets/crop/test/Pine nuts plant/4766.jpg,Pine nuts plant,chain,0.1752108633518219
+/content/drive/MyDrive/Datasets/crop/test/Lemons and limes plant/3502.jpg,Lemons and limes plant,lemon,0.052741192281246185
+/content/drive/MyDrive/Datasets/crop/test/Peaches and nectarines plant/4610.jpg,Peaches and nectarines plant,Granny Smith,0.10225620120763779
+/content/drive/MyDrive/Datasets/crop/test/Flaxseed (Linseed) plant/2731.jpg,Flaxseed (Linseed) plant,"lakeside, lakeshore",0.01611200161278248
+/content/drive/MyDrive/Datasets/crop/test/Tamarind plant/6052.jpg,Tamarind plant,"indri, indris, Indri indri, Indri brevicaudatus",0.04489494860172272
+/content/drive/MyDrive/Datasets/crop/test/Blueberries plant/788.jpg,Blueberries plant,"pot, flowerpot",0.2218261957168579
+/content/drive/MyDrive/Datasets/crop/test/Navy bean plant/4187.jpg,Navy bean plant,"thunder snake, worm snake, Carphophis amoenus",0.06569468230009079
+/content/drive/MyDrive/Datasets/crop/test/Quinoa plant/5103.jpg,Quinoa plant,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",0.04651867225766182
+/content/drive/MyDrive/Datasets/crop/test/Almonds plant/158.jpg,Almonds plant,Petri dish,0.028328530490398407
+/content/drive/MyDrive/Datasets/crop/test/Cherry plant/1729.jpg,Cherry plant,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",0.05226839333772659
+/content/drive/MyDrive/Datasets/crop/test/Brazil nuts plant/941.jpg,Brazil nuts plant,"axolotl, mud puppy, Ambystoma mexicanum",0.041918203234672546
+/content/drive/MyDrive/Datasets/crop/test/Chestnuts plant/1768.jpg,Chestnuts plant,cardoon,0.34890809655189514
+/content/drive/MyDrive/Datasets/crop/test/Tamarind plant/6061.jpg,Tamarind plant,"indri, indris, Indri indri, Indri brevicaudatus",0.06833834946155548
+/content/drive/MyDrive/Datasets/crop/test/Tomatoes plant/6284.jpg,Tomatoes plant,croquet ball,0.04063605144619942
+/content/drive/MyDrive/Datasets/crop/test/Cocoa beans plant/2051.jpg,Cocoa beans plant,hair slide,0.11386421322822571
+/content/drive/MyDrive/Datasets/crop/test/Potatoes plant/4988.jpg,Potatoes plant,spaghetti squash,0.05162184685468674
+/content/drive/MyDrive/Datasets/crop/test/Rambutan plant/5172.jpg,Rambutan plant,cardoon,0.19935734570026398
+/content/drive/MyDrive/Datasets/crop/test/Navy bean plant/4175.jpg,Navy bean plant,abacus,0.061410821974277496
+/content/drive/MyDrive/Datasets/crop/test/Guavas plant/3062.jpg,Guavas plant,"rock beauty, Holocanthus tricolor",0.011433153413236141
+/content/drive/MyDrive/Datasets/crop/test/Longan plant/3668.jpg,Longan plant,cardoon,0.040547020733356476
+/content/drive/MyDrive/Datasets/crop/test/Cloves plant/2018.jpg,Cloves plant,"letter opener, paper knife, paperknife",0.023056376725435257
+/content/drive/MyDrive/Datasets/crop/test/Swiss chard plant/5993.jpg,Swiss chard plant,vine snake,0.05723583325743675
+/content/drive/MyDrive/Datasets/crop/test/Broccoli plant/1015.jpg,Broccoli plant,broccoli,0.3827330470085144
+/content/drive/MyDrive/Datasets/crop/test/Saffron plant/5459.jpg,Saffron plant,consomme,0.0801767036318779
+/content/drive/MyDrive/Datasets/crop/test/Cashew nuts plant/1492.jpg,Cashew nuts plant,"lakeside, lakeshore",0.030158234760165215
+/content/drive/MyDrive/Datasets/crop/test/Groundnuts (Peanuts) plant/2992.jpg,Groundnuts (Peanuts) plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.10027344524860382
+/content/drive/MyDrive/Datasets/crop/test/Oats plant/4216.jpg,Oats plant,"binder, ring-binder",0.047811347991228104
+/content/drive/MyDrive/Datasets/crop/test/Olives plant/4327.jpg,Olives plant,"medicine chest, medicine cabinet",0.1807231903076172
+/content/drive/MyDrive/Datasets/crop/test/Sage plant/5482.jpg,Sage plant,"pot, flowerpot",0.03962939232587814
+/content/drive/MyDrive/Datasets/crop/test/Saffron plant/5472.jpg,Saffron plant,"quill, quill pen",0.04174552112817764
+/content/drive/MyDrive/Datasets/crop/test/Figs plant/2667.jpg,Figs plant,analog clock,0.020489046350121498
+/content/drive/MyDrive/Datasets/crop/test/Mint plant/4011.jpg,Mint plant,"African chameleon, Chamaeleo chamaeleon",0.12996289134025574
+/content/drive/MyDrive/Datasets/crop/test/Cranberries plant/2295.jpg,Cranberries plant,velvet,0.014983519911766052
+/content/drive/MyDrive/Datasets/crop/test/Blueberries plant/798.jpg,Blueberries plant,sea lion,0.047200094908475876
+/content/drive/MyDrive/Datasets/crop/test/Horseradish plant/3262.jpg,Horseradish plant,eft,0.02316543459892273
+/content/drive/MyDrive/Datasets/crop/test/Tea plant/6160.jpg,Tea plant,"barracouta, snoek",0.01803559809923172
+/content/drive/MyDrive/Datasets/crop/test/Ginger plant/2859.jpg,Ginger plant,"barn spider, Araneus cavaticus",0.025994274765253067
+/content/drive/MyDrive/Datasets/crop/test/Chickpeas plant/1829.jpg,Chickpeas plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.04016449674963951
+/content/drive/MyDrive/Datasets/crop/test/Papayas plant/4547.jpg,Papayas plant,maraca,0.01668374612927437
+/content/drive/MyDrive/Datasets/crop/test/Amaranth plant/164.jpg,Amaranth plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.041597574949264526
+/content/drive/MyDrive/Datasets/crop/test/Horseradish plant/3272.jpg,Horseradish plant,head cabbage,0.09295651316642761
+/content/drive/MyDrive/Datasets/crop/test/Bok choy plant/874.jpg,Bok choy plant,"quill, quill pen",0.08841763436794281
+/content/drive/MyDrive/Datasets/crop/test/Eggplants (Aubergines) plant/2544.jpg,Eggplants (Aubergines) plant,bell pepper,0.02796645276248455
+/content/drive/MyDrive/Datasets/crop/test/Lentils plant/3583.jpg,Lentils plant,consomme,0.21316079795360565
+/content/drive/MyDrive/Datasets/crop/test/Flaxseed (Linseed) plant/2733.jpg,Flaxseed (Linseed) plant,cardoon,0.06707286834716797
+/content/drive/MyDrive/Datasets/crop/test/Garlic plant/2823.jpg,Garlic plant,knot,0.05946778133511543
+/content/drive/MyDrive/Datasets/crop/test/Blueberries plant/813.jpg,Blueberries plant,earthstar,0.2618376314640045
+/content/drive/MyDrive/Datasets/crop/test/Wheat plant/6546.jpg,Wheat plant,"ear, spike, capitulum",0.1726519912481308
+/content/drive/MyDrive/Datasets/crop/test/Pistachios plant/4857.jpg,Pistachios plant,jigsaw puzzle,0.05138877406716347
+/content/drive/MyDrive/Datasets/crop/test/Garlic plant/2829.jpg,Garlic plant,Petri dish,0.02572735585272312
+/content/drive/MyDrive/Datasets/crop/test/Bok choy plant/863.jpg,Bok choy plant,hair slide,0.09631480276584625
+/content/drive/MyDrive/Datasets/crop/test/Ginger plant/2850.jpg,Ginger plant,pinwheel,0.13802717626094818
+"/content/drive/MyDrive/Datasets/crop/test/Mangoes, mangosteens, guavas plant/3913.jpg","Mangoes, mangosteens, guavas plant",fig,0.048132289201021194
+/content/drive/MyDrive/Datasets/crop/test/Potatoes plant/4978.jpg,Potatoes plant,"lakeside, lakeshore",0.062391478568315506
+/content/drive/MyDrive/Datasets/crop/test/Rambutan plant/5162.jpg,Rambutan plant,cardoon,0.340262770652771
+/content/drive/MyDrive/Datasets/crop/test/Cotton lint plant/2249.jpg,Cotton lint plant,"pot, flowerpot",0.05234726890921593
+/content/drive/MyDrive/Datasets/crop/test/Cabbages and other brassicas plant/1246.jpg,Cabbages and other brassicas plant,cauliflower,0.5866347551345825
+/content/drive/MyDrive/Datasets/crop/test/Hen eggs (shell weight) plant/3232.jpg,Hen eggs (shell weight) plant,maraca,0.024317197501659393
+/content/drive/MyDrive/Datasets/crop/test/Tea plant/6124.jpg,Tea plant,coral fungus,0.07790090143680573
+/content/drive/MyDrive/Datasets/crop/test/Blueberries plant/766.jpg,Blueberries plant,"pedestal, plinth, footstall",0.09410413354635239
+/content/drive/MyDrive/Datasets/crop/test/Tea plant/6140.jpg,Tea plant,safety pin,0.06498178094625473
+/content/drive/MyDrive/Datasets/crop/test/Tea plant/6156.jpg,Tea plant,"African chameleon, Chamaeleo chamaeleon",0.051391664892435074
+/content/drive/MyDrive/Datasets/crop/test/Starfruit plant/5751.jpg,Starfruit plant,"candle, taper, wax light",0.016580939292907715
+/content/drive/MyDrive/Datasets/crop/test/Millet plant/3994.jpg,Millet plant,"axolotl, mud puppy, Ambystoma mexicanum",0.057486068457365036
+/content/drive/MyDrive/Datasets/crop/test/Onions (dry) plant/4392.jpg,Onions (dry) plant,Granny Smith,0.19159278273582458
+/content/drive/MyDrive/Datasets/crop/test/Onions (dry) plant/4407.jpg,Onions (dry) plant,"barn spider, Araneus cavaticus",0.02401675656437874
+/content/drive/MyDrive/Datasets/crop/test/Habanero pepper plant/3089.jpg,Habanero pepper plant,bell pepper,0.07187791168689728
+/content/drive/MyDrive/Datasets/crop/test/Oats plant/4227.jpg,Oats plant,croquet ball,0.035048551857471466
+/content/drive/MyDrive/Datasets/crop/test/Almonds plant/153.jpg,Almonds plant,cardoon,0.03494868054986
+/content/drive/MyDrive/Datasets/crop/test/Parsley plant/4599.jpg,Parsley plant,"feather boa, boa",0.052150581032037735
+/content/drive/MyDrive/Datasets/crop/test/Groundnuts (Peanuts) plant/2973.jpg,Groundnuts (Peanuts) plant,"barn spider, Araneus cavaticus",0.07484897971153259
+/content/drive/MyDrive/Datasets/crop/test/Apples plant/291.jpg,Apples plant,"pot, flowerpot",0.025935746729373932
+/content/drive/MyDrive/Datasets/crop/test/Spinach plant/5705.jpg,Spinach plant,consomme,0.11034142225980759
+/content/drive/MyDrive/Datasets/crop/test/Kohlrabi plant/3427.jpg,Kohlrabi plant,"axolotl, mud puppy, Ambystoma mexicanum",0.019164884462952614
+/content/drive/MyDrive/Datasets/crop/test/Triticale plant/6317.jpg,Triticale plant,coral reef,0.022267278283834457
+/content/drive/MyDrive/Datasets/crop/test/Hazelnuts plant/3154.jpg,Hazelnuts plant,"lakeside, lakeshore",0.05522584542632103
+/content/drive/MyDrive/Datasets/crop/test/Buckwheat plant/1169.jpg,Buckwheat plant,sorrel,0.010741493664681911
+/content/drive/MyDrive/Datasets/crop/test/Turnip greens plant/6381.jpg,Turnip greens plant,daisy,0.2623293399810791
+/content/drive/MyDrive/Datasets/crop/test/Maracuja(Passionfruit) plant/3918.jpg,Maracuja(Passionfruit) plant,spaghetti squash,0.10986877977848053
+/content/drive/MyDrive/Datasets/crop/test/Almonds plant/132.jpg,Almonds plant,vine snake,0.11371739208698273
+/content/drive/MyDrive/Datasets/crop/test/Cinnamon plant/1937.jpg,Cinnamon plant,eggnog,0.0471375547349453
+/content/drive/MyDrive/Datasets/crop/test/Tomatoes plant/6264.jpg,Tomatoes plant,"hip, rose hip, rosehip",0.1217222809791565
+/content/drive/MyDrive/Datasets/crop/test/Grapes plant/2945.jpg,Grapes plant,"ear, spike, capitulum",0.04590490832924843
+/content/drive/MyDrive/Datasets/crop/test/Millet plant/3995.jpg,Millet plant,"web site, website, internet site, site",0.374234676361084
+/content/drive/MyDrive/Datasets/crop/test/Avocados plant/394.jpg,Avocados plant,mortar,0.06863197684288025
+/content/drive/MyDrive/Datasets/crop/test/Cocoa beans plant/2063.jpg,Cocoa beans plant,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.035637497901916504
+/content/drive/MyDrive/Datasets/crop/test/Chili peppers and green peppers plant/1886.jpg,Chili peppers and green peppers plant,"quill, quill pen",0.01713058166205883
+/content/drive/MyDrive/Datasets/crop/test/Hazelnuts plant/3146.jpg,Hazelnuts plant,"lakeside, lakeshore",0.06369224190711975
+/content/drive/MyDrive/Datasets/crop/test/Yams plant/6605.jpg,Yams plant,"mantis, mantid",0.0344160757958889
+/content/drive/MyDrive/Datasets/crop/test/Rosemary plant/5346.jpg,Rosemary plant,cardoon,0.022082261741161346
+/content/drive/MyDrive/Datasets/crop/test/Quinoa plant/5069.jpg,Quinoa plant,groenendael,0.04033283516764641
+/content/drive/MyDrive/Datasets/crop/test/Blueberries plant/800.jpg,Blueberries plant,maraca,0.03259049728512764
+/content/drive/MyDrive/Datasets/crop/test/Pistachios plant/4861.jpg,Pistachios plant,"hip, rose hip, rosehip",0.07788688689470291
+/content/drive/MyDrive/Datasets/crop/test/Barley plant/547.jpg,Barley plant,safety pin,0.05483093112707138
+/content/drive/MyDrive/Datasets/crop/test/Raspberries plant/5266.jpg,Raspberries plant,custard apple,0.17442886531352997
+/content/drive/MyDrive/Datasets/crop/test/Taro (cocoyam) plant/6085.jpg,Taro (cocoyam) plant,head cabbage,0.1249028891324997
+/content/drive/MyDrive/Datasets/crop/test/Pomegranates plant/4966.jpg,Pomegranates plant,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",0.10187195986509323
+/content/drive/MyDrive/Datasets/crop/test/Flaxseed (Linseed) plant/2752.jpg,Flaxseed (Linseed) plant,cardoon,0.038425590842962265
+/content/drive/MyDrive/Datasets/crop/test/Avocados plant/417.jpg,Avocados plant,lotion,0.014962567016482353
+/content/drive/MyDrive/Datasets/crop/test/Taro (cocoyam) plant/6086.jpg,Taro (cocoyam) plant,head cabbage,0.08587055653333664
+/content/drive/MyDrive/Datasets/crop/test/Jackfruit plant/3285.jpg,Jackfruit plant,"jackfruit, jak, jack",0.125978484749794
+/content/drive/MyDrive/Datasets/crop/test/Cloves plant/1965.jpg,Cloves plant,tick,0.020316677168011665
+/content/drive/MyDrive/Datasets/crop/test/Blueberries plant/810.jpg,Blueberries plant,"common newt, Triturus vulgaris",0.01553382258862257
+/content/drive/MyDrive/Datasets/crop/test/Carrots and turnips plant/1346.jpg,Carrots and turnips plant,"common newt, Triturus vulgaris",0.06324465572834015
+/content/drive/MyDrive/Datasets/crop/test/Persimmons plant/4691.jpg,Persimmons plant,"lakeside, lakeshore",0.0381825715303421
+/content/drive/MyDrive/Datasets/crop/test/Cocoa beans plant/2049.jpg,Cocoa beans plant,jellyfish,0.03427135571837425
+/content/drive/MyDrive/Datasets/crop/test/Chickpeas plant/1827.jpg,Chickpeas plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.03216581419110298
+/content/drive/MyDrive/Datasets/crop/test/Peas (Green) plant/4677.jpg,Peas (Green) plant,hair slide,0.12148942798376083
+/content/drive/MyDrive/Datasets/crop/test/Garlic plant/2834.jpg,Garlic plant,cardoon,0.01957102306187153
+/content/drive/MyDrive/Datasets/crop/test/Rambutan plant/5157.jpg,Rambutan plant,"sea anemone, anemone",0.048041388392448425
+/content/drive/MyDrive/Datasets/crop/test/Mustard seeds plant/4159.jpg,Mustard seeds plant,broccoli,0.1619599312543869
+/content/drive/MyDrive/Datasets/crop/test/Cashew nuts plant/1534.jpg,Cashew nuts plant,packet,0.0751948356628418
+/content/drive/MyDrive/Datasets/crop/test/Rice (Paddy) plant/5313.jpg,Rice (Paddy) plant,"pick, plectrum, plectron",0.13575495779514313
+/content/drive/MyDrive/Datasets/crop/test/Onions (dry) plant/4399.jpg,Onions (dry) plant,earthstar,0.04436406120657921
+/content/drive/MyDrive/Datasets/crop/test/Persimmons plant/4696.jpg,Persimmons plant,"ant, emmet, pismire",0.03978276997804642
+/content/drive/MyDrive/Datasets/crop/test/Chili peppers and green peppers plant/1882.jpg,Chili peppers and green peppers plant,vine snake,0.1802758276462555
+/content/drive/MyDrive/Datasets/crop/test/Black pepper plant/716.jpg,Black pepper plant,vine snake,0.055834848433732986
+/content/drive/MyDrive/Datasets/crop/test/Figs plant/2656.jpg,Figs plant,"web site, website, internet site, site",0.04736708849668503
+/content/drive/MyDrive/Datasets/crop/test/Turnip greens plant/6371.jpg,Turnip greens plant,tennis ball,0.04688328504562378
+/content/drive/MyDrive/Datasets/crop/test/Navy bean plant/4177.jpg,Navy bean plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.03726043924689293
+/content/drive/MyDrive/Datasets/crop/test/Wheat plant/6566.jpg,Wheat plant,coral fungus,0.030064580962061882
+/content/drive/MyDrive/Datasets/crop/test/Oil palm fruit plant/4279.jpg,Oil palm fruit plant,hair slide,0.17222960293293
+/content/drive/MyDrive/Datasets/crop/test/Flaxseed (Linseed) plant/2729.jpg,Flaxseed (Linseed) plant,daisy,0.07264143973588943
+/content/drive/MyDrive/Datasets/crop/test/Barley plant/555.jpg,Barley plant,"quill, quill pen",0.13802139461040497
+/content/drive/MyDrive/Datasets/crop/test/Vanilla beans plant/6443.jpg,Vanilla beans plant,"stinkhorn, carrion fungus",0.08800391852855682
+/content/drive/MyDrive/Datasets/crop/test/Lettuce and chicory plant/3595.jpg,Lettuce and chicory plant,vine snake,0.07730000466108322
+/content/drive/MyDrive/Datasets/crop/test/Collards plant/2211.jpg,Collards plant,"swab, swob, mop",0.03413498029112816
+/content/drive/MyDrive/Datasets/crop/test/Cabbages and other brassicas plant/1237.jpg,Cabbages and other brassicas plant,bow,0.07977638393640518
+/content/drive/MyDrive/Datasets/crop/test/Okra plant/4320.jpg,Okra plant,vine snake,0.0592745803296566
+/content/drive/MyDrive/Datasets/crop/test/Grapes plant/2951.jpg,Grapes plant,earthstar,0.46475812792778015
+/content/drive/MyDrive/Datasets/crop/test/Figs plant/2651.jpg,Figs plant,"pot, flowerpot",0.3907642364501953
+/content/drive/MyDrive/Datasets/crop/test/Plantains plant/4905.jpg,Plantains plant,head cabbage,0.039372339844703674
+/content/drive/MyDrive/Datasets/crop/test/Starfruit plant/5763.jpg,Starfruit plant,"flatworm, platyhelminth",0.026005657389760017
+/content/drive/MyDrive/Datasets/crop/test/Thyme plant/6226.jpg,Thyme plant,"kit fox, Vulpes macrotis",0.019193526357412338
+/content/drive/MyDrive/Datasets/crop/test/Strawberries plant/5812.jpg,Strawberries plant,"sulphur butterfly, sulfur butterfly",0.08280826359987259
+/content/drive/MyDrive/Datasets/crop/test/Teff plant/6170.jpg,Teff plant,eggnog,0.15018264949321747
+/content/drive/MyDrive/Datasets/crop/test/Gooseberries plant/2897.jpg,Gooseberries plant,"hip, rose hip, rosehip",0.043420981615781784
+/content/drive/MyDrive/Datasets/crop/test/Celery plant/1656.jpg,Celery plant,"candle, taper, wax light",0.05907091125845909
+/content/drive/MyDrive/Datasets/crop/test/Cherimoya plant/1684.jpg,Cherimoya plant,earthstar,0.03976742923259735
+/content/drive/MyDrive/Datasets/crop/test/Teff plant/6191.jpg,Teff plant,"electric ray, crampfish, numbfish, torpedo",0.030056564137339592
+/content/drive/MyDrive/Datasets/crop/test/Barley plant/604.jpg,Barley plant,"prairie chicken, prairie grouse, prairie fowl",0.06105521321296692
+/content/drive/MyDrive/Datasets/crop/test/Brussels sprout plant/1119.jpg,Brussels sprout plant,"pot, flowerpot",0.04523983597755432
+/content/drive/MyDrive/Datasets/crop/test/Olives plant/4358.jpg,Olives plant,pinwheel,0.1023416817188263
+/content/drive/MyDrive/Datasets/crop/test/Pine nuts plant/4773.jpg,Pine nuts plant,"ear, spike, capitulum",0.06954913586378098
+/content/drive/MyDrive/Datasets/crop/test/Beets plant/669.jpg,Beets plant,bell pepper,0.06622852385044098
+/content/drive/MyDrive/Datasets/crop/test/Rubber (natural) plant/5372.jpg,Rubber (natural) plant,vine snake,0.07816474884748459
+/content/drive/MyDrive/Datasets/crop/test/Cabbages and other brassicas plant/1286.jpg,Cabbages and other brassicas plant,"pick, plectrum, plectron",0.1829228550195694
+/content/drive/MyDrive/Datasets/crop/test/Habanero pepper plant/3077.jpg,Habanero pepper plant,cardoon,0.09817598015069962
+/content/drive/MyDrive/Datasets/crop/test/Coffee (green) plant/2130.jpg,Coffee (green) plant,eggnog,0.1136636808514595
+/content/drive/MyDrive/Datasets/crop/test/Lentils plant/3551.jpg,Lentils plant,"hot pot, hotpot",0.2472836673259735
+/content/drive/MyDrive/Datasets/crop/test/Amaranth plant/218.jpg,Amaranth plant,cardoon,0.03457781672477722
+/content/drive/MyDrive/Datasets/crop/test/Bananas plant/528.jpg,Bananas plant,pinwheel,0.04632452130317688
+/content/drive/MyDrive/Datasets/crop/test/Dry beans plant/2430.jpg,Dry beans plant,plastic bag,0.07688339054584503
+/content/drive/MyDrive/Datasets/crop/test/Aji pepper plant/50.jpg,Aji pepper plant,bell pepper,0.10449329763650894
+/content/drive/MyDrive/Datasets/crop/test/Sage plant/5487.jpg,Sage plant,head cabbage,0.03383626416325569
+/content/drive/MyDrive/Datasets/crop/test/Oranges plant/4471.jpg,Oranges plant,"sunscreen, sunblock, sun blocker",0.13036425411701202
+/content/drive/MyDrive/Datasets/crop/test/Okra plant/4302.jpg,Okra plant,velvet,0.07184461504220963
+/content/drive/MyDrive/Datasets/crop/test/Brussels sprout plant/1090.jpg,Brussels sprout plant,head cabbage,0.017845679074525833
+/content/drive/MyDrive/Datasets/crop/test/Wheat plant/6575.jpg,Wheat plant,cardoon,0.11202260851860046
+/content/drive/MyDrive/Datasets/crop/test/Tea plant/6163.jpg,Tea plant,head cabbage,0.10096155107021332
+/content/drive/MyDrive/Datasets/crop/test/Durian plant/2477.jpg,Durian plant,acorn,0.015390350483357906
+/content/drive/MyDrive/Datasets/crop/test/Sorghum plant/5588.jpg,Sorghum plant,coral fungus,0.06905871629714966
+/content/drive/MyDrive/Datasets/crop/test/Peas (Green) plant/4674.jpg,Peas (Green) plant,golf ball,0.1918426901102066
+/content/drive/MyDrive/Datasets/crop/test/Celery plant/1657.jpg,Celery plant,coral fungus,0.0756569653749466
+/content/drive/MyDrive/Datasets/crop/test/Endive plant/2574.jpg,Endive plant,velvet,0.07001321017742157
+/content/drive/MyDrive/Datasets/crop/test/Pine nuts plant/4744.jpg,Pine nuts plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.12520697712898254
+/content/drive/MyDrive/Datasets/crop/test/Flaxseed (Linseed) plant/2751.jpg,Flaxseed (Linseed) plant,space shuttle,0.04723821207880974
+/content/drive/MyDrive/Datasets/crop/test/Avocados plant/441.jpg,Avocados plant,"quill, quill pen",0.05105316638946533
+/content/drive/MyDrive/Datasets/crop/test/Barley plant/605.jpg,Barley plant,"barn spider, Araneus cavaticus",0.05221185088157654
+/content/drive/MyDrive/Datasets/crop/test/Vanilla beans plant/6434.jpg,Vanilla beans plant,"zucchini, courgette",0.04661828652024269
+/content/drive/MyDrive/Datasets/crop/test/Pistachios plant/4871.jpg,Pistachios plant,cardoon,0.04876362904906273
+/content/drive/MyDrive/Datasets/crop/test/Endive plant/2562.jpg,Endive plant,daisy,0.2833160161972046
+/content/drive/MyDrive/Datasets/crop/test/Cashew nuts plant/1502.jpg,Cashew nuts plant,coral reef,0.01562529243528843
+/content/drive/MyDrive/Datasets/crop/test/Strawberries plant/5800.jpg,Strawberries plant,strawberry,0.07247759401798248
+"/content/drive/MyDrive/Datasets/crop/test/Pumpkins, squash and gourds plant/5019.jpg","Pumpkins, squash and gourds plant",spaghetti squash,0.17881667613983154
+/content/drive/MyDrive/Datasets/crop/test/Cinnamon plant/1944.jpg,Cinnamon plant,cardoon,0.052893392741680145
+/content/drive/MyDrive/Datasets/crop/test/Almonds plant/160.jpg,Almonds plant,"barn spider, Araneus cavaticus",0.03672292083501816
+/content/drive/MyDrive/Datasets/crop/test/Tamarind plant/6074.jpg,Tamarind plant,toy terrier,0.02247515507042408
+/content/drive/MyDrive/Datasets/crop/test/Gooseberries plant/2912.jpg,Gooseberries plant,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.04321098327636719
+/content/drive/MyDrive/Datasets/crop/test/Fonio plant/2774.jpg,Fonio plant,mortar,0.15369607508182526
+/content/drive/MyDrive/Datasets/crop/test/Dry beans plant/2411.jpg,Dry beans plant,daisy,0.040106650441884995
+/content/drive/MyDrive/Datasets/crop/test/Hemp plant/3161.jpg,Hemp plant,"lakeside, lakeshore",0.04443123936653137
+/content/drive/MyDrive/Datasets/crop/test/Carrots and turnips plant/1450.jpg,Carrots and turnips plant,"pot, flowerpot",0.17860478162765503
+/content/drive/MyDrive/Datasets/crop/test/Lychee plant/3777.jpg,Lychee plant,daisy,0.08385481685400009
+/content/drive/MyDrive/Datasets/crop/test/Pomegranates plant/4956.jpg,Pomegranates plant,tennis ball,0.05947001278400421
+/content/drive/MyDrive/Datasets/crop/test/Turmeric plant/6344.jpg,Turmeric plant,"barn spider, Araneus cavaticus",0.02780088782310486
+/content/drive/MyDrive/Datasets/crop/test/Rice (Paddy) plant/5291.jpg,Rice (Paddy) plant,cardoon,0.13083946704864502
+/content/drive/MyDrive/Datasets/crop/test/Bok choy plant/893.jpg,Bok choy plant,mink,0.03433549776673317
+/content/drive/MyDrive/Datasets/crop/test/Jackfruit plant/3315.jpg,Jackfruit plant,"African chameleon, Chamaeleo chamaeleon",0.03590832278132439
+/content/drive/MyDrive/Datasets/crop/test/Lemons and limes plant/3504.jpg,Lemons and limes plant,"hip, rose hip, rosehip",0.039704740047454834
+/content/drive/MyDrive/Datasets/crop/test/Lupins plant/3724.jpg,Lupins plant,cardoon,0.01576545648276806
+/content/drive/MyDrive/Datasets/crop/test/Cinnamon plant/1945.jpg,Cinnamon plant,cardoon,0.021152224391698837
+/content/drive/MyDrive/Datasets/crop/test/Raspberries plant/5236.jpg,Raspberries plant,"hip, rose hip, rosehip",0.061818044632673264
+/content/drive/MyDrive/Datasets/crop/test/Oranges plant/4430.jpg,Oranges plant,"pot, flowerpot",0.08305365592241287
+/content/drive/MyDrive/Datasets/crop/test/Gooseberries plant/2910.jpg,Gooseberries plant,fig,0.16493357717990875
+/content/drive/MyDrive/Datasets/crop/test/Garlic plant/2820.jpg,Garlic plant,"three-toed sloth, ai, Bradypus tridactylus",0.16408595442771912
+/content/drive/MyDrive/Datasets/crop/test/Tea plant/6136.jpg,Tea plant,whistle,0.02757447212934494
+/content/drive/MyDrive/Datasets/crop/test/Potatoes plant/5003.jpg,Potatoes plant,dung beetle,0.02449124865233898
+/content/drive/MyDrive/Datasets/crop/test/Yams plant/6624.jpg,Yams plant,velvet,0.027511516585946083
+/content/drive/MyDrive/Datasets/crop/test/Cranberries plant/2288.jpg,Cranberries plant,rapeseed,0.08176962286233902
+/content/drive/MyDrive/Datasets/crop/test/Watermelons plant/6502.jpg,Watermelons plant,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",0.028759406879544258
+"/content/drive/MyDrive/Datasets/crop/test/Mandarins, clementines, satsumas plant/3838.jpg","Mandarins, clementines, satsumas plant","hip, rose hip, rosehip",0.02615305222570896
+/content/drive/MyDrive/Datasets/crop/test/Broccoli plant/1033.jpg,Broccoli plant,head cabbage,0.08344324678182602
+/content/drive/MyDrive/Datasets/crop/test/Apples plant/271.jpg,Apples plant,Granny Smith,0.18946503102779388
+/content/drive/MyDrive/Datasets/crop/test/Pinto bean plant/4841.jpg,Pinto bean plant,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",0.050727538764476776
+/content/drive/MyDrive/Datasets/crop/test/Amaranth plant/208.jpg,Amaranth plant,cardoon,0.2116907387971878
+/content/drive/MyDrive/Datasets/crop/test/Leeks plant/3468.jpg,Leeks plant,"barn spider, Araneus cavaticus",0.03594124689698219
+/content/drive/MyDrive/Datasets/crop/test/Guavas plant/3039.jpg,Guavas plant,head cabbage,0.04033932462334633
+/content/drive/MyDrive/Datasets/crop/test/Aji pepper plant/67.jpg,Aji pepper plant,bell pepper,0.06151050701737404
+/content/drive/MyDrive/Datasets/crop/test/Cashew nuts plant/1539.jpg,Cashew nuts plant,Petri dish,0.0681026428937912
+/content/drive/MyDrive/Datasets/crop/test/Taro (cocoyam) plant/6098.jpg,Taro (cocoyam) plant,"web site, website, internet site, site",0.19146642088890076
+/content/drive/MyDrive/Datasets/crop/test/Black pepper plant/747.jpg,Black pepper plant,"rock beauty, Holocanthus tricolor",0.02883906662464142
+/content/drive/MyDrive/Datasets/crop/test/Yams plant/6610.jpg,Yams plant,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",0.04383593052625656
+/content/drive/MyDrive/Datasets/crop/test/Bananas plant/503.jpg,Bananas plant,"quill, quill pen",0.14836059510707855
+/content/drive/MyDrive/Datasets/crop/test/Kohlrabi plant/3417.jpg,Kohlrabi plant,"pick, plectrum, plectron",0.13157907128334045
+/content/drive/MyDrive/Datasets/crop/test/Turmeric plant/6347.jpg,Turmeric plant,Band Aid,0.04727959632873535
+/content/drive/MyDrive/Datasets/crop/test/Lychee plant/3754.jpg,Lychee plant,ski mask,0.04613053426146507
+/content/drive/MyDrive/Datasets/crop/test/Jute plant/3345.jpg,Jute plant,"sunscreen, sunblock, sun blocker",0.04554203897714615
+/content/drive/MyDrive/Datasets/crop/test/Black pepper plant/695.jpg,Black pepper plant,vine snake,0.05699599161744118
+/content/drive/MyDrive/Datasets/crop/test/Jute plant/3369.jpg,Jute plant,"worm fence, snake fence, snake-rail fence, Virginia fence",0.00881089735776186
+/content/drive/MyDrive/Datasets/crop/test/Guavas plant/3050.jpg,Guavas plant,"pot, flowerpot",0.2272094190120697
+/content/drive/MyDrive/Datasets/crop/test/Navy bean plant/4188.jpg,Navy bean plant,golf ball,0.30622598528862
+/content/drive/MyDrive/Datasets/crop/test/Buckwheat plant/1171.jpg,Buckwheat plant,honeycomb,0.095953568816185
+/content/drive/MyDrive/Datasets/crop/test/Jute plant/3333.jpg,Jute plant,"Angora, Angora rabbit",0.04322044923901558
+/content/drive/MyDrive/Datasets/crop/test/Persimmons plant/4707.jpg,Persimmons plant,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",0.0119243199005723
+/content/drive/MyDrive/Datasets/crop/test/Pomegranates plant/4935.jpg,Pomegranates plant,Granny Smith,0.04889923706650734
+/content/drive/MyDrive/Datasets/crop/test/Rambutan plant/5182.jpg,Rambutan plant,cardoon,0.05070800706744194
+/content/drive/MyDrive/Datasets/crop/test/Coffee (green) plant/2167.jpg,Coffee (green) plant,cardoon,0.2517249584197998
+/content/drive/MyDrive/Datasets/crop/test/Collards plant/2181.jpg,Collards plant,"axolotl, mud puppy, Ambystoma mexicanum",0.05177690461277962
+/content/drive/MyDrive/Datasets/crop/test/Olives plant/4329.jpg,Olives plant,"lakeside, lakeshore",0.010926399379968643
+/content/drive/MyDrive/Datasets/crop/test/Broccoli plant/990.jpg,Broccoli plant,cauliflower,0.21479785442352295
+/content/drive/MyDrive/Datasets/crop/test/Mint plant/4013.jpg,Mint plant,head cabbage,0.06428484618663788
+/content/drive/MyDrive/Datasets/crop/test/Cloves plant/2022.jpg,Cloves plant,cardoon,0.10723166912794113
+/content/drive/MyDrive/Datasets/crop/test/Cherry plant/1707.jpg,Cherry plant,fig,0.0681077167391777
+/content/drive/MyDrive/Datasets/crop/test/Persimmons plant/4695.jpg,Persimmons plant,custard apple,0.11741333454847336
+/content/drive/MyDrive/Datasets/crop/test/Teff plant/6177.jpg,Teff plant,whistle,0.03161810711026192
+/content/drive/MyDrive/Datasets/crop/test/Hazelnuts plant/3129.jpg,Hazelnuts plant,cardoon,0.04809596389532089
+/content/drive/MyDrive/Datasets/crop/test/Blueberries plant/794.jpg,Blueberries plant,earthstar,0.054877154529094696
+/content/drive/MyDrive/Datasets/crop/test/Jute plant/3358.jpg,Jute plant,broccoli,0.014843067154288292
+/content/drive/MyDrive/Datasets/crop/test/Pinto bean plant/4829.jpg,Pinto bean plant,"swab, swob, mop",0.01339116320014
+/content/drive/MyDrive/Datasets/crop/test/Amaranth plant/165.jpg,Amaranth plant,cardoon,0.06296342611312866
+/content/drive/MyDrive/Datasets/crop/test/Spinach plant/5729.jpg,Spinach plant,head cabbage,0.15571612119674683
+/content/drive/MyDrive/Datasets/crop/test/Buckwheat plant/1197.jpg,Buckwheat plant,"theater curtain, theatre curtain",0.00795882847160101
+/content/drive/MyDrive/Datasets/crop/test/Vanilla beans plant/6450.jpg,Vanilla beans plant,pinwheel,0.03152608871459961
+/content/drive/MyDrive/Datasets/crop/test/Rambutan plant/5184.jpg,Rambutan plant,"pot, flowerpot",0.02607923187315464
+/content/drive/MyDrive/Datasets/crop/test/Cloves plant/2003.jpg,Cloves plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.18008266389369965
+/content/drive/MyDrive/Datasets/crop/test/Bananas plant/539.jpg,Bananas plant,"skunk, polecat, wood pussy",0.43777740001678467
+/content/drive/MyDrive/Datasets/crop/test/Cloves plant/2032.jpg,Cloves plant,"barn spider, Araneus cavaticus",0.12666195631027222
+/content/drive/MyDrive/Datasets/crop/test/Mustard seeds plant/4141.jpg,Mustard seeds plant,coral reef,0.02274860441684723
+/content/drive/MyDrive/Datasets/crop/test/Coffee (green) plant/2178.jpg,Coffee (green) plant,"pick, plectrum, plectron",0.06970875710248947
+/content/drive/MyDrive/Datasets/crop/test/Garlic plant/2817.jpg,Garlic plant,cardoon,0.027747170999646187
+/content/drive/MyDrive/Datasets/crop/test/Sorghum plant/5594.jpg,Sorghum plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.06122422218322754
+/content/drive/MyDrive/Datasets/crop/test/Quinoa plant/5076.jpg,Quinoa plant,plate,0.07342793792486191
+/content/drive/MyDrive/Datasets/crop/test/Aji pepper plant/40.jpg,Aji pepper plant,"hip, rose hip, rosehip",0.07212832570075989
+/content/drive/MyDrive/Datasets/crop/test/Starfruit plant/5764.jpg,Starfruit plant,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.26368841528892517
+/content/drive/MyDrive/Datasets/crop/test/Dry beans plant/2396.jpg,Dry beans plant,"web site, website, internet site, site",0.3214889168739319
+/content/drive/MyDrive/Datasets/crop/test/Lemons and limes plant/3532.jpg,Lemons and limes plant,orange,0.03976837918162346
+/content/drive/MyDrive/Datasets/crop/test/Saffron plant/5448.jpg,Saffron plant,eggnog,0.050485700368881226
+/content/drive/MyDrive/Datasets/crop/test/Cucumbers and gherkins plant/2338.jpg,Cucumbers and gherkins plant,"axolotl, mud puppy, Ambystoma mexicanum",0.023024752736091614
+/content/drive/MyDrive/Datasets/crop/test/Rubber (natural) plant/5362.jpg,Rubber (natural) plant,menu,0.08941975980997086
+"/content/drive/MyDrive/Datasets/crop/test/Pumpkins, squash and gourds plant/5065.jpg","Pumpkins, squash and gourds plant","chambered nautilus, pearly nautilus, nautilus",0.09788493067026138
+/content/drive/MyDrive/Datasets/crop/test/Cashew nuts plant/1509.jpg,Cashew nuts plant,"indri, indris, Indri indri, Indri brevicaudatus",0.03099921904504299
+/content/drive/MyDrive/Datasets/crop/test/Parsley plant/4578.jpg,Parsley plant,daisy,0.13844573497772217
+/content/drive/MyDrive/Datasets/crop/test/Barley plant/590.jpg,Barley plant,cardoon,0.2478090226650238
+/content/drive/MyDrive/Datasets/crop/test/Carrots and turnips plant/1400.jpg,Carrots and turnips plant,whistle,0.021595297381281853
+/content/drive/MyDrive/Datasets/crop/test/Cherimoya plant/1670.jpg,Cherimoya plant,custard apple,0.4768880009651184
+/content/drive/MyDrive/Datasets/crop/test/Maize (Corn) plant/3807.jpg,Maize (Corn) plant,volcano,0.05946341156959534
+/content/drive/MyDrive/Datasets/crop/test/Coconuts plant/2093.jpg,Coconuts plant,coral reef,0.012454875744879246
+/content/drive/MyDrive/Datasets/crop/test/Collards plant/2188.jpg,Collards plant,head cabbage,0.09312067180871964
+/content/drive/MyDrive/Datasets/crop/test/Strawberries plant/5783.jpg,Strawberries plant,"rock beauty, Holocanthus tricolor",0.07554110884666443
+/content/drive/MyDrive/Datasets/crop/test/Chili peppers and green peppers plant/1884.jpg,Chili peppers and green peppers plant,whistle,0.10601220279932022
+/content/drive/MyDrive/Datasets/crop/test/Oranges plant/4434.jpg,Oranges plant,"pot, flowerpot",0.05073220655322075
+/content/drive/MyDrive/Datasets/crop/test/Almonds plant/139.jpg,Almonds plant,fig,0.411668598651886
+/content/drive/MyDrive/Datasets/crop/test/Cucumbers and gherkins plant/2318.jpg,Cucumbers and gherkins plant,bow,0.02718844823539257
+/content/drive/MyDrive/Datasets/crop/test/Ginger plant/2852.jpg,Ginger plant,"cockroach, roach",0.01867988519370556
+/content/drive/MyDrive/Datasets/crop/test/Sweet potatoes plant/5990.jpg,Sweet potatoes plant,French loaf,0.15570716559886932
+/content/drive/MyDrive/Datasets/crop/test/Brazil nuts plant/925.jpg,Brazil nuts plant,"lakeside, lakeshore",0.1140507161617279
+/content/drive/MyDrive/Datasets/crop/test/Spinach plant/5709.jpg,Spinach plant,head cabbage,0.4016174077987671
+/content/drive/MyDrive/Datasets/crop/test/Pistachios plant/4872.jpg,Pistachios plant,"pick, plectrum, plectron",0.028648918494582176
+/content/drive/MyDrive/Datasets/crop/test/Maracuja(Passionfruit) plant/3930.jpg,Maracuja(Passionfruit) plant,cardoon,0.031174013391137123
+/content/drive/MyDrive/Datasets/crop/test/Barley plant/612.jpg,Barley plant,"nematode, nematode worm, roundworm",0.05480683594942093
+/content/drive/MyDrive/Datasets/crop/test/Sunflower seeds plant/5913.jpg,Sunflower seeds plant,nail,0.04852881282567978
+/content/drive/MyDrive/Datasets/crop/test/Onions (dry) plant/4395.jpg,Onions (dry) plant,safety pin,0.015961993485689163
+/content/drive/MyDrive/Datasets/crop/test/Millet plant/3983.jpg,Millet plant,"African chameleon, Chamaeleo chamaeleon",0.1261129081249237
+/content/drive/MyDrive/Datasets/crop/test/Bananas plant/531.jpg,Bananas plant,"artichoke, globe artichoke",0.12617740035057068
+/content/drive/MyDrive/Datasets/crop/test/Onions (dry) plant/4384.jpg,Onions (dry) plant,bittern,0.011579318903386593
+/content/drive/MyDrive/Datasets/crop/test/Turnip greens plant/6392.jpg,Turnip greens plant,"jersey, T-shirt, tee shirt",0.10001388937234879
+/content/drive/MyDrive/Datasets/crop/test/Brazil nuts plant/983.jpg,Brazil nuts plant,typewriter keyboard,0.15732868015766144
+/content/drive/MyDrive/Datasets/crop/test/Garlic plant/2821.jpg,Garlic plant,maypole,0.021856943145394325
+/content/drive/MyDrive/Datasets/crop/test/Carrots and turnips plant/1311.jpg,Carrots and turnips plant,potpie,0.09982569515705109
+/content/drive/MyDrive/Datasets/crop/test/Cinnamon plant/1905.jpg,Cinnamon plant,digital clock,0.029512664303183556
+/content/drive/MyDrive/Datasets/crop/test/Endive plant/2557.jpg,Endive plant,"axolotl, mud puppy, Ambystoma mexicanum",0.10020316392183304
+/content/drive/MyDrive/Datasets/crop/test/Yams plant/6618.jpg,Yams plant,alp,0.05690792575478554
+/content/drive/MyDrive/Datasets/crop/test/Flax fiber and tow plant/2678.jpg,Flax fiber and tow plant,"nematode, nematode worm, roundworm",0.0851672813296318
+/content/drive/MyDrive/Datasets/crop/test/Durian plant/2479.jpg,Durian plant,"porcupine, hedgehog",0.14217165112495422
+/content/drive/MyDrive/Datasets/crop/test/Bok choy plant/903.jpg,Bok choy plant,head cabbage,0.1458057016134262
+/content/drive/MyDrive/Datasets/crop/test/Almonds plant/106.jpg,Almonds plant,coral reef,0.08389393240213394
+/content/drive/MyDrive/Datasets/crop/test/Lupins plant/3721.jpg,Lupins plant,cardoon,0.06980205327272415
+/content/drive/MyDrive/Datasets/crop/test/Mint plant/4024.jpg,Mint plant,head cabbage,0.0823633223772049
+/content/drive/MyDrive/Datasets/crop/test/Broccoli plant/1049.jpg,Broccoli plant,cauliflower,0.272111177444458
+/content/drive/MyDrive/Datasets/crop/test/Rice (Paddy) plant/5308.jpg,Rice (Paddy) plant,"nematode, nematode worm, roundworm",0.0574955940246582
+/content/drive/MyDrive/Datasets/crop/test/Olives plant/4351.jpg,Olives plant,"dam, dike, dyke",0.019284799695014954
+/content/drive/MyDrive/Datasets/crop/test/Brussels sprout plant/1145.jpg,Brussels sprout plant,head cabbage,0.06652090698480606
+/content/drive/MyDrive/Datasets/crop/test/Soursop plant/5609.jpg,Soursop plant,"web site, website, internet site, site",0.11166498810052872
+/content/drive/MyDrive/Datasets/crop/test/Flaxseed (Linseed) plant/2737.jpg,Flaxseed (Linseed) plant,"hip, rose hip, rosehip",0.03165961056947708
+/content/drive/MyDrive/Datasets/crop/test/Plantains plant/4929.jpg,Plantains plant,"bolo tie, bolo, bola tie, bola",0.09824773669242859
+/content/drive/MyDrive/Datasets/crop/test/Raspberries plant/5272.jpg,Raspberries plant,custard apple,0.2678239345550537
+/content/drive/MyDrive/Datasets/crop/test/Brazil nuts plant/970.jpg,Brazil nuts plant,spaghetti squash,0.042551860213279724
+/content/drive/MyDrive/Datasets/crop/test/Yams plant/6623.jpg,Yams plant,head cabbage,0.11760533601045609
+/content/drive/MyDrive/Datasets/crop/test/Dry beans plant/2407.jpg,Dry beans plant,coral reef,0.04212100803852081
+/content/drive/MyDrive/Datasets/crop/test/Amaranth plant/194.jpg,Amaranth plant,"rock beauty, Holocanthus tricolor",0.046037230640649796
+/content/drive/MyDrive/Datasets/crop/test/Bananas plant/496.jpg,Bananas plant,bell pepper,0.04847745969891548
+/content/drive/MyDrive/Datasets/crop/test/Cinnamon plant/1942.jpg,Cinnamon plant,safety pin,0.011053706519305706
+/content/drive/MyDrive/Datasets/crop/test/Longan plant/3681.jpg,Longan plant,"ear, spike, capitulum",0.03796475753188133
+/content/drive/MyDrive/Datasets/crop/test/Lemons and limes plant/3501.jpg,Lemons and limes plant,"hip, rose hip, rosehip",0.05173274129629135
+/content/drive/MyDrive/Datasets/crop/test/Cranberries plant/2270.jpg,Cranberries plant,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",0.06382334232330322
+/content/drive/MyDrive/Datasets/crop/test/Brazil nuts plant/961.jpg,Brazil nuts plant,"frilled lizard, Chlamydosaurus kingi",0.01768413744866848
+/content/drive/MyDrive/Datasets/crop/test/Fava bean plant/2630.jpg,Fava bean plant,"dalmatian, coach dog, carriage dog",0.023538006469607353
+/content/drive/MyDrive/Datasets/crop/test/Apples plant/293.jpg,Apples plant,lemon,0.0833657830953598
+/content/drive/MyDrive/Datasets/crop/test/Spinach plant/5701.jpg,Spinach plant,whistle,0.1257905662059784
+/content/drive/MyDrive/Datasets/crop/test/Ginger plant/2847.jpg,Ginger plant,"ear, spike, capitulum",0.09361922740936279
+/content/drive/MyDrive/Datasets/crop/test/Chestnuts plant/1795.jpg,Chestnuts plant,cardoon,0.01396601926535368
+/content/drive/MyDrive/Datasets/crop/test/Cloves plant/2026.jpg,Cloves plant,hair slide,0.33040329813957214
+/content/drive/MyDrive/Datasets/crop/test/Triticale plant/6327.jpg,Triticale plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.12025216221809387
+/content/drive/MyDrive/Datasets/crop/test/Artichoke plant/366.jpg,Artichoke plant,"artichoke, globe artichoke",0.3485303819179535
+/content/drive/MyDrive/Datasets/crop/test/Leeks plant/3492.jpg,Leeks plant,bell pepper,0.026673341169953346
+/content/drive/MyDrive/Datasets/crop/test/Sunflower seeds plant/5918.jpg,Sunflower seeds plant,"stinkhorn, carrion fungus",0.08857488632202148
+/content/drive/MyDrive/Datasets/crop/test/Tea plant/6139.jpg,Tea plant,cardoon,0.04468360170722008
+/content/drive/MyDrive/Datasets/crop/test/Rapeseed (Canola) plant/5224.jpg,Rapeseed (Canola) plant,broccoli,0.15436618030071259
+/content/drive/MyDrive/Datasets/crop/test/Cherry plant/1708.jpg,Cherry plant,eggnog,0.16541436314582825
+/content/drive/MyDrive/Datasets/crop/test/Hazelnuts plant/3134.jpg,Hazelnuts plant,head cabbage,0.04105507954955101
+/content/drive/MyDrive/Datasets/crop/test/Pineapples plant/4786.jpg,Pineapples plant,"pineapple, ananas",0.18547023832798004
+/content/drive/MyDrive/Datasets/crop/test/Fonio plant/2763.jpg,Fonio plant,plate,0.07620080560445786
+/content/drive/MyDrive/Datasets/crop/test/Apples plant/242.jpg,Apples plant,"switch, electric switch, electrical switch",0.09734245389699936
+/content/drive/MyDrive/Datasets/crop/test/Yams plant/6590.jpg,Yams plant,eft,0.08154838532209396
+/content/drive/MyDrive/Datasets/crop/test/Vanilla beans plant/6422.jpg,Vanilla beans plant,vine snake,0.04080630838871002
+/content/drive/MyDrive/Datasets/crop/test/Oil palm fruit plant/4288.jpg,Oil palm fruit plant,maraca,0.0927206352353096
+/content/drive/MyDrive/Datasets/crop/test/Barley plant/554.jpg,Barley plant,knot,0.29064658284187317
+/content/drive/MyDrive/Datasets/crop/test/Beets plant/661.jpg,Beets plant,iPod,0.07089542597532272
+/content/drive/MyDrive/Datasets/crop/test/Buckwheat plant/1201.jpg,Buckwheat plant,"worm fence, snake fence, snake-rail fence, Virginia fence",0.021490376442670822
+/content/drive/MyDrive/Datasets/crop/test/Cassava plant/1572.jpg,Cassava plant,bow,0.015260236337780952
+/content/drive/MyDrive/Datasets/crop/test/Hazelnuts plant/3135.jpg,Hazelnuts plant,"artichoke, globe artichoke",0.05614212900400162
+/content/drive/MyDrive/Datasets/crop/test/Triticale plant/6292.jpg,Triticale plant,broom,0.0734550803899765
+/content/drive/MyDrive/Datasets/crop/test/Lentils plant/3539.jpg,Lentils plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.0253383070230484
+/content/drive/MyDrive/Datasets/crop/test/Chickpeas plant/1831.jpg,Chickpeas plant,"hip, rose hip, rosehip",0.02612808346748352
+/content/drive/MyDrive/Datasets/crop/test/Oats plant/4249.jpg,Oats plant,jellyfish,0.04392237588763237
+"/content/drive/MyDrive/Datasets/crop/test/Pumpkins, squash and gourds plant/5016.jpg","Pumpkins, squash and gourds plant",tennis ball,0.0639524981379509
+/content/drive/MyDrive/Datasets/crop/test/Brazil nuts plant/912.jpg,Brazil nuts plant,earthstar,0.1592334359884262
+/content/drive/MyDrive/Datasets/crop/test/Vanilla beans plant/6419.jpg,Vanilla beans plant,hair slide,0.13362398743629456
+/content/drive/MyDrive/Datasets/crop/test/Sugar beet plant/5861.jpg,Sugar beet plant,coral reef,0.07043977081775665
+/content/drive/MyDrive/Datasets/crop/test/Broccoli plant/1036.jpg,Broccoli plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.0489560104906559
+/content/drive/MyDrive/Datasets/crop/test/Cinnamon plant/1903.jpg,Cinnamon plant,coral reef,0.03412242978811264
+/content/drive/MyDrive/Datasets/crop/test/Cassava plant/1569.jpg,Cassava plant,mashed potato,0.09759850800037384
+/content/drive/MyDrive/Datasets/crop/test/Coconuts plant/2105.jpg,Coconuts plant,"web site, website, internet site, site",0.0444072000682354
+/content/drive/MyDrive/Datasets/crop/test/Raspberries plant/5268.jpg,Raspberries plant,cardoon,0.029533877968788147
+/content/drive/MyDrive/Datasets/crop/test/Avocados plant/420.jpg,Avocados plant,"pick, plectrum, plectron",0.06632969528436661
+/content/drive/MyDrive/Datasets/crop/test/Brussels sprout plant/1067.jpg,Brussels sprout plant,head cabbage,0.06912128627300262
+"/content/drive/MyDrive/Datasets/crop/test/Mangoes, mangosteens, guavas plant/3896.jpg","Mangoes, mangosteens, guavas plant",fig,0.07609637826681137
+/content/drive/MyDrive/Datasets/crop/test/Okra plant/4323.jpg,Okra plant,cardoon,0.07533502578735352
+/content/drive/MyDrive/Datasets/crop/test/Pistachios plant/4858.jpg,Pistachios plant,"hip, rose hip, rosehip",0.023408787325024605
+/content/drive/MyDrive/Datasets/crop/test/Gooseberries plant/2894.jpg,Gooseberries plant,cardoon,0.06995948404073715
+/content/drive/MyDrive/Datasets/crop/test/Dry beans plant/2395.jpg,Dry beans plant,cardoon,0.04034311696887016
+/content/drive/MyDrive/Datasets/crop/test/Hemp plant/3175.jpg,Hemp plant,sea urchin,0.05408412963151932
+/content/drive/MyDrive/Datasets/crop/test/Flax fiber and tow plant/2691.jpg,Flax fiber and tow plant,"wool, woolen, woollen",0.22505398094654083
+/content/drive/MyDrive/Datasets/crop/test/Cranberries plant/2281.jpg,Cranberries plant,bell pepper,0.02508952096104622
+/content/drive/MyDrive/Datasets/crop/test/Flaxseed (Linseed) plant/2747.jpg,Flaxseed (Linseed) plant,hair slide,0.17162488400936127
+/content/drive/MyDrive/Datasets/crop/test/Soybeans plant/5680.jpg,Soybeans plant,coral reef,0.05497237294912338
+/content/drive/MyDrive/Datasets/crop/test/Taro (cocoyam) plant/6108.jpg,Taro (cocoyam) plant,"quill, quill pen",0.021838493645191193
+/content/drive/MyDrive/Datasets/crop/test/Turnip greens plant/6374.jpg,Turnip greens plant,"barn spider, Araneus cavaticus",0.035032130777835846
+/content/drive/MyDrive/Datasets/crop/test/Potatoes plant/5014.jpg,Potatoes plant,scorpion,0.02184220589697361
+/content/drive/MyDrive/Datasets/crop/test/Mustard seeds plant/4146.jpg,Mustard seeds plant,oil filter,0.08884076774120331
+/content/drive/MyDrive/Datasets/crop/test/Maracuja(Passionfruit) plant/3965.jpg,Maracuja(Passionfruit) plant,pinwheel,0.16934818029403687
+/content/drive/MyDrive/Datasets/crop/test/Potatoes plant/5015.jpg,Potatoes plant,"maze, labyrinth",0.03344140574336052
+/content/drive/MyDrive/Datasets/crop/test/Bok choy plant/869.jpg,Bok choy plant,head cabbage,0.15953227877616882
+/content/drive/MyDrive/Datasets/crop/test/Brazil nuts plant/976.jpg,Brazil nuts plant,eggnog,0.3124734163284302
+/content/drive/MyDrive/Datasets/crop/test/Cherry plant/1727.jpg,Cherry plant,maraca,0.030569463968276978
+/content/drive/MyDrive/Datasets/crop/test/Fonio plant/2769.jpg,Fonio plant,mortar,0.1647968590259552
+/content/drive/MyDrive/Datasets/crop/test/Oats plant/4222.jpg,Oats plant,face powder,0.07536094635725021
+/content/drive/MyDrive/Datasets/crop/test/Beets plant/615.jpg,Beets plant,cauliflower,0.030281387269496918
+/content/drive/MyDrive/Datasets/crop/test/Kohlrabi plant/3454.jpg,Kohlrabi plant,"axolotl, mud puppy, Ambystoma mexicanum",0.02953994832932949
+/content/drive/MyDrive/Datasets/crop/test/Rye plant/5415.jpg,Rye plant,"nematode, nematode worm, roundworm",0.566214382648468
+/content/drive/MyDrive/Datasets/crop/test/Black pepper plant/698.jpg,Black pepper plant,"ear, spike, capitulum",0.1072651669383049
+/content/drive/MyDrive/Datasets/crop/test/Cinnamon plant/1920.jpg,Cinnamon plant,vine snake,0.16135305166244507
+/content/drive/MyDrive/Datasets/crop/test/Fava bean plant/2611.jpg,Fava bean plant,vine snake,0.20745937526226044
+/content/drive/MyDrive/Datasets/crop/test/Cherry plant/1734.jpg,Cherry plant,"walking stick, walkingstick, stick insect",0.05670555680990219
+/content/drive/MyDrive/Datasets/crop/test/Okra plant/4301.jpg,Okra plant,"panpipe, pandean pipe, syrinx",0.04537961632013321
+/content/drive/MyDrive/Datasets/crop/test/Papayas plant/4521.jpg,Papayas plant,"ear, spike, capitulum",0.014383717440068722
+/content/drive/MyDrive/Datasets/crop/test/Starfruit plant/5781.jpg,Starfruit plant,bolete,0.0788005068898201
+/content/drive/MyDrive/Datasets/crop/test/Lentils plant/3566.jpg,Lentils plant,golf ball,0.14869630336761475
+/content/drive/MyDrive/Datasets/crop/test/Pinto bean plant/4825.jpg,Pinto bean plant,"pot, flowerpot",0.019621534273028374
+/content/drive/MyDrive/Datasets/crop/test/Cotton lint plant/2219.jpg,Cotton lint plant,"patas, hussar monkey, Erythrocebus patas",0.019224904477596283
+/content/drive/MyDrive/Datasets/crop/test/Tamarind plant/6068.jpg,Tamarind plant,cardoon,0.09517935663461685
+/content/drive/MyDrive/Datasets/crop/test/Pineapples plant/4809.jpg,Pineapples plant,"pot, flowerpot",0.0632944330573082
+/content/drive/MyDrive/Datasets/crop/test/Dry peas plant/2473.jpg,Dry peas plant,strainer,0.04168662801384926
+/content/drive/MyDrive/Datasets/crop/test/Mustard seeds plant/4158.jpg,Mustard seeds plant,"spotlight, spot",0.03262561187148094
+/content/drive/MyDrive/Datasets/crop/test/Rambutan plant/5175.jpg,Rambutan plant,"sea anemone, anemone",0.06503129750490189
+/content/drive/MyDrive/Datasets/crop/test/Maracuja(Passionfruit) plant/3962.jpg,Maracuja(Passionfruit) plant,"nematode, nematode worm, roundworm",0.13822469115257263
+/content/drive/MyDrive/Datasets/crop/test/Cashew nuts plant/1527.jpg,Cashew nuts plant,"rock beauty, Holocanthus tricolor",0.060520924627780914
+/content/drive/MyDrive/Datasets/crop/test/Barley plant/578.jpg,Barley plant,paintbrush,0.04678439721465111
+/content/drive/MyDrive/Datasets/crop/test/Apples plant/266.jpg,Apples plant,head cabbage,0.030176324769854546
+/content/drive/MyDrive/Datasets/crop/test/Gooseberries plant/2885.jpg,Gooseberries plant,"pot, flowerpot",0.04667907580733299
+/content/drive/MyDrive/Datasets/crop/test/Papayas plant/4545.jpg,Papayas plant,spaghetti squash,0.02042180672287941
+/content/drive/MyDrive/Datasets/crop/test/Buckwheat plant/1175.jpg,Buckwheat plant,coral reef,0.08935920149087906
+/content/drive/MyDrive/Datasets/crop/test/Lychee plant/3781.jpg,Lychee plant,"indri, indris, Indri indri, Indri brevicaudatus",0.013845739886164665
+/content/drive/MyDrive/Datasets/crop/test/Starfruit plant/5744.jpg,Starfruit plant,"ant, emmet, pismire",0.09643546491861343
+/content/drive/MyDrive/Datasets/crop/test/Ginger plant/2871.jpg,Ginger plant,"pot, flowerpot",0.04198604077100754
+/content/drive/MyDrive/Datasets/crop/test/Carrots and turnips plant/1408.jpg,Carrots and turnips plant,hair slide,0.17573636770248413
+/content/drive/MyDrive/Datasets/crop/test/Hazelnuts plant/3119.jpg,Hazelnuts plant,consomme,0.06999275833368301
+/content/drive/MyDrive/Datasets/crop/test/Bok choy plant/860.jpg,Bok choy plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.017252247780561447
+/content/drive/MyDrive/Datasets/crop/test/Rye plant/5419.jpg,Rye plant,cardoon,0.04523684084415436
+/content/drive/MyDrive/Datasets/crop/test/Bananas plant/474.jpg,Bananas plant,"artichoke, globe artichoke",0.028079457581043243
+/content/drive/MyDrive/Datasets/crop/test/Taro (cocoyam) plant/6090.jpg,Taro (cocoyam) plant,"thresher, thrasher, threshing machine",0.056740228086709976
+/content/drive/MyDrive/Datasets/crop/test/Cashew nuts plant/1468.jpg,Cashew nuts plant,crane,0.06393926590681076
+/content/drive/MyDrive/Datasets/crop/test/Chestnuts plant/1767.jpg,Chestnuts plant,knot,0.1734963208436966
+"/content/drive/MyDrive/Datasets/crop/test/Mangoes, mangosteens, guavas plant/3909.jpg","Mangoes, mangosteens, guavas plant",fig,0.04464036971330643
+/content/drive/MyDrive/Datasets/crop/test/Potatoes plant/5005.jpg,Potatoes plant,hair slide,0.07458257675170898
+/content/drive/MyDrive/Datasets/crop/test/Pomegranates plant/4932.jpg,Pomegranates plant,Granny Smith,0.1706850528717041
+/content/drive/MyDrive/Datasets/crop/test/Triticale plant/6299.jpg,Triticale plant,cardoon,0.025024648755788803
+/content/drive/MyDrive/Datasets/crop/test/Swiss chard plant/6015.jpg,Swiss chard plant,"pot, flowerpot",0.02196071669459343
+/content/drive/MyDrive/Datasets/crop/test/Brussels sprout plant/1124.jpg,Brussels sprout plant,"artichoke, globe artichoke",0.054598841816186905
+/content/drive/MyDrive/Datasets/crop/test/Barley plant/568.jpg,Barley plant,matchstick,0.0483233816921711
+/content/drive/MyDrive/Datasets/crop/test/Soybeans plant/5665.jpg,Soybeans plant,beaker,0.01899813488125801
+/content/drive/MyDrive/Datasets/crop/test/Buckwheat plant/1203.jpg,Buckwheat plant,cardoon,0.03353790193796158
+/content/drive/MyDrive/Datasets/crop/test/Brussels sprout plant/1095.jpg,Brussels sprout plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.12666426599025726
+/content/drive/MyDrive/Datasets/crop/test/Cabbages and other brassicas plant/1282.jpg,Cabbages and other brassicas plant,cauliflower,0.1206713393330574
+/content/drive/MyDrive/Datasets/crop/test/Brussels sprout plant/1140.jpg,Brussels sprout plant,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",0.034040987491607666
+/content/drive/MyDrive/Datasets/crop/test/Black pepper plant/753.jpg,Black pepper plant,"lacewing, lacewing fly",0.02741226740181446
+/content/drive/MyDrive/Datasets/crop/test/Lemons and limes plant/3512.jpg,Lemons and limes plant,"hip, rose hip, rosehip",0.09019198268651962
+/content/drive/MyDrive/Datasets/crop/test/Amaranth plant/233.jpg,Amaranth plant,vine snake,0.05543259158730507
+/content/drive/MyDrive/Datasets/crop/test/Barley plant/567.jpg,Barley plant,"lipstick, lip rouge",0.08887051045894623
+/content/drive/MyDrive/Datasets/crop/test/Mustard greens plant/4091.jpg,Mustard greens plant,head cabbage,0.16335996985435486
+/content/drive/MyDrive/Datasets/crop/test/Cinnamon plant/1917.jpg,Cinnamon plant,cardoon,0.05224340036511421
+/content/drive/MyDrive/Datasets/crop/test/Parsley plant/4584.jpg,Parsley plant,velvet,0.05232066288590431
+/content/drive/MyDrive/Datasets/crop/test/Cinnamon plant/1904.jpg,Cinnamon plant,"rock beauty, Holocanthus tricolor",0.012906569987535477
+/content/drive/MyDrive/Datasets/crop/test/Pinto bean plant/4847.jpg,Pinto bean plant,honeycomb,0.0582151859998703
+/content/drive/MyDrive/Datasets/crop/test/Black pepper plant/722.jpg,Black pepper plant,"oboe, hautboy, hautbois",0.01034059002995491
+/content/drive/MyDrive/Datasets/crop/test/Cashew nuts plant/1486.jpg,Cashew nuts plant,chain,0.016217414289712906
+/content/drive/MyDrive/Datasets/crop/test/Kale plant/3380.jpg,Kale plant,head cabbage,0.025140227749943733
